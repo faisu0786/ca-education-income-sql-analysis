@@ -1,0 +1,1061 @@
+Year,Age,Gender,Educational Attainment,Personal Income,Population Count
+1/1/2008,00 to 17,Male,Children under 15,No Income,0.00
+1/1/2008,00 to 17,Male,No high school diploma,No Income,650889.00
+1/1/2008,00 to 17,Male,No high school diploma,"$5,000 to $9,999",30152.00
+1/1/2008,00 to 17,Male,No high school diploma,"$10,000 to $14,999",7092.00
+1/1/2008,00 to 17,Male,No high school diploma,"$15,000 to $24,999",3974.00
+1/1/2008,00 to 17,Male,No high school diploma,"$25,000 to $34,999",2606.00
+1/1/2008,00 to 17,Male,No high school diploma,"$35,000 to $49,999",2227.00
+1/1/2008,00 to 17,Male,High school or equivalent,No Income,0.00
+1/1/2008,00 to 17,Male,"Some college, less than 4-yr degree",No Income,8664.00
+1/1/2008,00 to 17,Male,"Some college, less than 4-yr degree","$10,000 to $14,999",1304.00
+1/1/2008,00 to 17,Male,"Some college, less than 4-yr degree","$15,000 to $24,999",3465.00
+1/1/2008,00 to 17,Male,Bachelor's degree or higher,No Income,0.00
+1/1/2008,00 to 17,Female,Children under 15,No Income,0.00
+1/1/2008,00 to 17,Female,No high school diploma,No Income,635274.00
+1/1/2008,00 to 17,Female,No high school diploma,"$5,000 to $9,999",33202.00
+1/1/2008,00 to 17,Female,No high school diploma,"$10,000 to $14,999",6857.00
+1/1/2008,00 to 17,Female,No high school diploma,"$15,000 to $24,999",2009.00
+1/1/2008,00 to 17,Female,High school or equivalent,No Income,4711.00
+1/1/2008,00 to 17,Female,High school or equivalent,"$5,000 to $9,999",7672.00
+1/1/2008,00 to 17,Female,"Some college, less than 4-yr degree",No Income,7598.00
+1/1/2008,00 to 17,Female,"Some college, less than 4-yr degree","$5,000 to $9,999",1565.00
+1/1/2008,18 to 64,Male,No high school diploma,No Income,261172.00
+1/1/2008,18 to 64,Male,No high school diploma,"$5,000 to $9,999",163263.00
+1/1/2008,18 to 64,Male,No high school diploma,"$10,000 to $14,999",317119.00
+1/1/2008,18 to 64,Male,No high school diploma,"$15,000 to $24,999",573769.00
+1/1/2008,18 to 64,Male,No high school diploma,"$25,000 to $34,999",333713.00
+1/1/2008,18 to 64,Male,No high school diploma,"$35,000 to $49,999",222761.00
+1/1/2008,18 to 64,Male,No high school diploma,"$50,000 to $74,999",109200.00
+1/1/2008,18 to 64,Male,No high school diploma,"$75,000 and over",44291.00
+1/1/2008,18 to 64,Male,High school or equivalent,No Income,296555.00
+1/1/2008,18 to 64,Male,High school or equivalent,"$5,000 to $9,999",187833.00
+1/1/2008,18 to 64,Male,High school or equivalent,"$10,000 to $14,999",229724.00
+1/1/2008,18 to 64,Male,High school or equivalent,"$15,000 to $24,999",501296.00
+1/1/2008,18 to 64,Male,High school or equivalent,"$25,000 to $34,999",433340.00
+1/1/2008,18 to 64,Male,High school or equivalent,"$35,000 to $49,999",472466.00
+1/1/2008,18 to 64,Male,High school or equivalent,"$50,000 to $74,999",424046.00
+1/1/2008,18 to 64,Male,High school or equivalent,"$75,000 and over",175104.00
+1/1/2008,18 to 64,Male,"Some college, less than 4-yr degree",No Income,237810.00
+1/1/2008,18 to 64,Male,"Some college, less than 4-yr degree","$5,000 to $9,999",211318.00
+1/1/2008,18 to 64,Male,"Some college, less than 4-yr degree","$10,000 to $14,999",224732.00
+1/1/2008,18 to 64,Male,"Some college, less than 4-yr degree","$15,000 to $24,999",416638.00
+1/1/2008,18 to 64,Male,"Some college, less than 4-yr degree","$25,000 to $34,999",418686.00
+1/1/2008,18 to 64,Male,"Some college, less than 4-yr degree","$35,000 to $49,999",539958.00
+1/1/2008,18 to 64,Male,"Some college, less than 4-yr degree","$50,000 to $74,999",591795.00
+1/1/2008,18 to 64,Male,"Some college, less than 4-yr degree","$75,000 and over",478470.00
+1/1/2008,18 to 64,Male,Bachelor's degree or higher,No Income,94464.00
+1/1/2008,18 to 64,Male,Bachelor's degree or higher,"$5,000 to $9,999",52069.00
+1/1/2008,18 to 64,Male,Bachelor's degree or higher,"$10,000 to $14,999",88070.00
+1/1/2008,18 to 64,Male,Bachelor's degree or higher,"$15,000 to $24,999",201443.00
+1/1/2008,18 to 64,Male,Bachelor's degree or higher,"$25,000 to $34,999",236263.00
+1/1/2008,18 to 64,Male,Bachelor's degree or higher,"$35,000 to $49,999",387555.00
+1/1/2008,18 to 64,Male,Bachelor's degree or higher,"$50,000 to $74,999",690627.00
+1/1/2008,18 to 64,Male,Bachelor's degree or higher,"$75,000 and over",1456566.00
+1/1/2008,18 to 64,Female,No high school diploma,No Income,740143.00
+1/1/2008,18 to 64,Female,No high school diploma,"$5,000 to $9,999",252509.00
+1/1/2008,18 to 64,Female,No high school diploma,"$10,000 to $14,999",229721.00
+1/1/2008,18 to 64,Female,No high school diploma,"$15,000 to $24,999",317043.00
+1/1/2008,18 to 64,Female,No high school diploma,"$25,000 to $34,999",93849.00
+1/1/2008,18 to 64,Female,No high school diploma,"$35,000 to $49,999",51599.00
+1/1/2008,18 to 64,Female,No high school diploma,"$50,000 to $74,999",15192.00
+1/1/2008,18 to 64,Female,No high school diploma,"$75,000 and over",4233.00
+1/1/2008,18 to 64,Female,High school or equivalent,No Income,528876.00
+1/1/2008,18 to 64,Female,High school or equivalent,"$5,000 to $9,999",241389.00
+1/1/2008,18 to 64,Female,High school or equivalent,"$10,000 to $14,999",241913.00
+1/1/2008,18 to 64,Female,High school or equivalent,"$15,000 to $24,999",420710.00
+1/1/2008,18 to 64,Female,High school or equivalent,"$25,000 to $34,999",293265.00
+1/1/2008,18 to 64,Female,High school or equivalent,"$35,000 to $49,999",249327.00
+1/1/2008,18 to 64,Female,High school or equivalent,"$50,000 to $74,999",131571.00
+1/1/2008,18 to 64,Female,High school or equivalent,"$75,000 and over",59350.00
+1/1/2008,18 to 64,Female,"Some college, less than 4-yr degree",No Income,451575.00
+1/1/2008,18 to 64,Female,"Some college, less than 4-yr degree","$5,000 to $9,999",327251.00
+1/1/2008,18 to 64,Female,"Some college, less than 4-yr degree","$10,000 to $14,999",334679.00
+1/1/2008,18 to 64,Female,"Some college, less than 4-yr degree","$15,000 to $24,999",497615.00
+1/1/2008,18 to 64,Female,"Some college, less than 4-yr degree","$25,000 to $34,999",496456.00
+1/1/2008,18 to 64,Female,"Some college, less than 4-yr degree","$35,000 to $49,999",536363.00
+1/1/2008,18 to 64,Female,"Some college, less than 4-yr degree","$50,000 to $74,999",345723.00
+1/1/2008,18 to 64,Female,"Some college, less than 4-yr degree","$75,000 and over",179877.00
+1/1/2008,18 to 64,Female,Bachelor's degree or higher,No Income,224757.00
+1/1/2008,18 to 64,Female,Bachelor's degree or higher,"$5,000 to $9,999",131590.00
+1/1/2008,18 to 64,Female,Bachelor's degree or higher,"$10,000 to $14,999",148626.00
+1/1/2008,18 to 64,Female,Bachelor's degree or higher,"$15,000 to $24,999",345795.00
+1/1/2008,18 to 64,Female,Bachelor's degree or higher,"$25,000 to $34,999",320338.00
+1/1/2008,18 to 64,Female,Bachelor's degree or higher,"$35,000 to $49,999",503031.00
+1/1/2008,18 to 64,Female,Bachelor's degree or higher,"$50,000 to $74,999",770798.00
+1/1/2008,18 to 64,Female,Bachelor's degree or higher,"$75,000 and over",781211.00
+1/1/2008,65 to 80+,Male,No high school diploma,No Income,33353.00
+1/1/2008,65 to 80+,Male,No high school diploma,"$5,000 to $9,999",71652.00
+1/1/2008,65 to 80+,Male,No high school diploma,"$10,000 to $14,999",124247.00
+1/1/2008,65 to 80+,Male,No high school diploma,"$15,000 to $24,999",69185.00
+1/1/2008,65 to 80+,Male,No high school diploma,"$25,000 to $34,999",16279.00
+1/1/2008,65 to 80+,Male,No high school diploma,"$35,000 to $49,999",21985.00
+1/1/2008,65 to 80+,Male,No high school diploma,"$50,000 to $74,999",13271.00
+1/1/2008,65 to 80+,Male,No high school diploma,"$75,000 and over",5801.00
+1/1/2008,65 to 80+,Male,High school or equivalent,No Income,8278.00
+1/1/2008,65 to 80+,Male,High school or equivalent,"$5,000 to $9,999",46783.00
+1/1/2008,65 to 80+,Male,High school or equivalent,"$10,000 to $14,999",75602.00
+1/1/2008,65 to 80+,Male,High school or equivalent,"$15,000 to $24,999",108184.00
+1/1/2008,65 to 80+,Male,High school or equivalent,"$25,000 to $34,999",37651.00
+1/1/2008,65 to 80+,Male,High school or equivalent,"$35,000 to $49,999",48804.00
+1/1/2008,65 to 80+,Male,High school or equivalent,"$50,000 to $74,999",27164.00
+1/1/2008,65 to 80+,Male,High school or equivalent,"$75,000 and over",8527.00
+1/1/2008,65 to 80+,Male,"Some college, less than 4-yr degree",No Income,1923.00
+1/1/2008,65 to 80+,Male,"Some college, less than 4-yr degree","$5,000 to $9,999",21902.00
+1/1/2008,65 to 80+,Male,"Some college, less than 4-yr degree","$10,000 to $14,999",66280.00
+1/1/2008,65 to 80+,Male,"Some college, less than 4-yr degree","$15,000 to $24,999",108057.00
+1/1/2008,65 to 80+,Male,"Some college, less than 4-yr degree","$25,000 to $34,999",62955.00
+1/1/2008,65 to 80+,Male,"Some college, less than 4-yr degree","$35,000 to $49,999",46427.00
+1/1/2008,65 to 80+,Male,"Some college, less than 4-yr degree","$50,000 to $74,999",22443.00
+1/1/2008,65 to 80+,Male,"Some college, less than 4-yr degree","$75,000 and over",34723.00
+1/1/2008,65 to 80+,Male,Bachelor's degree or higher,No Income,25141.00
+1/1/2008,65 to 80+,Male,Bachelor's degree or higher,"$5,000 to $9,999",27004.00
+1/1/2008,65 to 80+,Male,Bachelor's degree or higher,"$10,000 to $14,999",43599.00
+1/1/2008,65 to 80+,Male,Bachelor's degree or higher,"$15,000 to $24,999",70274.00
+1/1/2008,65 to 80+,Male,Bachelor's degree or higher,"$25,000 to $34,999",51983.00
+1/1/2008,65 to 80+,Male,Bachelor's degree or higher,"$35,000 to $49,999",73084.00
+1/1/2008,65 to 80+,Male,Bachelor's degree or higher,"$50,000 to $74,999",82823.00
+1/1/2008,65 to 80+,Male,Bachelor's degree or higher,"$75,000 and over",161013.00
+1/1/2008,65 to 80+,Female,No high school diploma,No Income,69280.00
+1/1/2008,65 to 80+,Female,No high school diploma,"$5,000 to $9,999",178234.00
+1/1/2008,65 to 80+,Female,No high school diploma,"$10,000 to $14,999",182135.00
+1/1/2008,65 to 80+,Female,No high school diploma,"$15,000 to $24,999",42275.00
+1/1/2008,65 to 80+,Female,No high school diploma,"$25,000 to $34,999",14645.00
+1/1/2008,65 to 80+,Female,No high school diploma,"$35,000 to $49,999",8109.00
+1/1/2008,65 to 80+,Female,No high school diploma,"$50,000 to $74,999",8297.00
+1/1/2008,65 to 80+,Female,No high school diploma,"$75,000 and over",1981.00
+1/1/2008,65 to 80+,Female,High school or equivalent,No Income,34242.00
+1/1/2008,65 to 80+,Female,High school or equivalent,"$5,000 to $9,999",188067.00
+1/1/2008,65 to 80+,Female,High school or equivalent,"$10,000 to $14,999",156811.00
+1/1/2008,65 to 80+,Female,High school or equivalent,"$15,000 to $24,999",164592.00
+1/1/2008,65 to 80+,Female,High school or equivalent,"$25,000 to $34,999",78590.00
+1/1/2008,65 to 80+,Female,High school or equivalent,"$35,000 to $49,999",34003.00
+1/1/2008,65 to 80+,Female,High school or equivalent,"$50,000 to $74,999",29183.00
+1/1/2008,65 to 80+,Female,High school or equivalent,"$75,000 and over",12086.00
+1/1/2008,65 to 80+,Female,"Some college, less than 4-yr degree",No Income,12954.00
+1/1/2008,65 to 80+,Female,"Some college, less than 4-yr degree","$5,000 to $9,999",93823.00
+1/1/2008,65 to 80+,Female,"Some college, less than 4-yr degree","$10,000 to $14,999",120242.00
+1/1/2008,65 to 80+,Female,"Some college, less than 4-yr degree","$15,000 to $24,999",149462.00
+1/1/2008,65 to 80+,Female,"Some college, less than 4-yr degree","$25,000 to $34,999",73070.00
+1/1/2008,65 to 80+,Female,"Some college, less than 4-yr degree","$35,000 to $49,999",48577.00
+1/1/2008,65 to 80+,Female,"Some college, less than 4-yr degree","$50,000 to $74,999",27158.00
+1/1/2008,65 to 80+,Female,"Some college, less than 4-yr degree","$75,000 and over",35445.00
+1/1/2008,65 to 80+,Female,Bachelor's degree or higher,No Income,12915.00
+1/1/2008,65 to 80+,Female,Bachelor's degree or higher,"$5,000 to $9,999",50596.00
+1/1/2008,65 to 80+,Female,Bachelor's degree or higher,"$10,000 to $14,999",54641.00
+1/1/2008,65 to 80+,Female,Bachelor's degree or higher,"$15,000 to $24,999",42390.00
+1/1/2008,65 to 80+,Female,Bachelor's degree or higher,"$25,000 to $34,999",42705.00
+1/1/2008,65 to 80+,Female,Bachelor's degree or higher,"$35,000 to $49,999",75697.00
+1/1/2008,65 to 80+,Female,Bachelor's degree or higher,"$50,000 to $74,999",64954.00
+1/1/2008,65 to 80+,Female,Bachelor's degree or higher,"$75,000 and over",60942.00
+1/1/2009,00 to 17,Male,Children under 15,No Income,0.00
+1/1/2009,00 to 17,Male,No high school diploma,No Income,629969.00
+1/1/2009,00 to 17,Male,No high school diploma,"$5,000 to $9,999",41863.00
+1/1/2009,00 to 17,Male,No high school diploma,"$10,000 to $14,999",7651.00
+1/1/2009,00 to 17,Male,No high school diploma,"$15,000 to $24,999",3222.00
+1/1/2009,00 to 17,Male,No high school diploma,"$25,000 to $34,999",1829.00
+1/1/2009,00 to 17,Male,High school or equivalent,No Income,0.00
+1/1/2009,00 to 17,Male,High school or equivalent,"$5,000 to $9,999",1185.00
+1/1/2009,00 to 17,Male,High school or equivalent,"$15,000 to $24,999",2520.00
+1/1/2009,00 to 17,Male,"Some college, less than 4-yr degree",No Income,2887.00
+1/1/2009,00 to 17,Male,"Some college, less than 4-yr degree","$5,000 to $9,999",1117.00
+1/1/2009,00 to 17,Male,"Some college, less than 4-yr degree","$10,000 to $14,999",1878.00
+1/1/2009,00 to 17,Male,"Some college, less than 4-yr degree","$15,000 to $24,999",2754.00
+1/1/2009,00 to 17,Male,Bachelor's degree or higher,No Income,0.00
+1/1/2009,00 to 17,Female,Children under 15,No Income,0.00
+1/1/2009,00 to 17,Female,No high school diploma,No Income,648149.00
+1/1/2009,00 to 17,Female,No high school diploma,"$5,000 to $9,999",29280.00
+1/1/2009,00 to 17,Female,No high school diploma,"$10,000 to $14,999",11341.00
+1/1/2009,00 to 17,Female,No high school diploma,"$35,000 to $49,999",1800.00
+1/1/2009,00 to 17,Female,No high school diploma,"$50,000 to $74,999",1797.00
+1/1/2009,00 to 17,Female,High school or equivalent,No Income,9209.00
+1/1/2009,00 to 17,Female,High school or equivalent,"$5,000 to $9,999",3169.00
+1/1/2009,00 to 17,Female,High school or equivalent,"$15,000 to $24,999",1294.00
+1/1/2009,00 to 17,Female,"Some college, less than 4-yr degree",No Income,4408.00
+1/1/2009,00 to 17,Female,"Some college, less than 4-yr degree","$15,000 to $24,999",1780.00
+1/1/2009,18 to 64,Male,No high school diploma,No Income,280947.00
+1/1/2009,18 to 64,Male,No high school diploma,"$5,000 to $9,999",229865.00
+1/1/2009,18 to 64,Male,No high school diploma,"$10,000 to $14,999",278224.00
+1/1/2009,18 to 64,Male,No high school diploma,"$15,000 to $24,999",534542.00
+1/1/2009,18 to 64,Male,No high school diploma,"$25,000 to $34,999",307653.00
+1/1/2009,18 to 64,Male,No high school diploma,"$35,000 to $49,999",247159.00
+1/1/2009,18 to 64,Male,No high school diploma,"$50,000 to $74,999",79922.00
+1/1/2009,18 to 64,Male,No high school diploma,"$75,000 and over",48803.00
+1/1/2009,18 to 64,Male,High school or equivalent,No Income,296927.00
+1/1/2009,18 to 64,Male,High school or equivalent,"$5,000 to $9,999",216871.00
+1/1/2009,18 to 64,Male,High school or equivalent,"$10,000 to $14,999",213345.00
+1/1/2009,18 to 64,Male,High school or equivalent,"$15,000 to $24,999",503750.00
+1/1/2009,18 to 64,Male,High school or equivalent,"$25,000 to $34,999",440200.00
+1/1/2009,18 to 64,Male,High school or equivalent,"$35,000 to $49,999",481130.00
+1/1/2009,18 to 64,Male,High school or equivalent,"$50,000 to $74,999",350784.00
+1/1/2009,18 to 64,Male,High school or equivalent,"$75,000 and over",190948.00
+1/1/2009,18 to 64,Male,"Some college, less than 4-yr degree",No Income,212039.00
+1/1/2009,18 to 64,Male,"Some college, less than 4-yr degree","$5,000 to $9,999",235730.00
+1/1/2009,18 to 64,Male,"Some college, less than 4-yr degree","$10,000 to $14,999",288174.00
+1/1/2009,18 to 64,Male,"Some college, less than 4-yr degree","$15,000 to $24,999",392488.00
+1/1/2009,18 to 64,Male,"Some college, less than 4-yr degree","$25,000 to $34,999",375408.00
+1/1/2009,18 to 64,Male,"Some college, less than 4-yr degree","$35,000 to $49,999",486983.00
+1/1/2009,18 to 64,Male,"Some college, less than 4-yr degree","$50,000 to $74,999",584200.00
+1/1/2009,18 to 64,Male,"Some college, less than 4-yr degree","$75,000 and over",521502.00
+1/1/2009,18 to 64,Male,Bachelor's degree or higher,No Income,88688.00
+1/1/2009,18 to 64,Male,Bachelor's degree or higher,"$5,000 to $9,999",70367.00
+1/1/2009,18 to 64,Male,Bachelor's degree or higher,"$10,000 to $14,999",84122.00
+1/1/2009,18 to 64,Male,Bachelor's degree or higher,"$15,000 to $24,999",201713.00
+1/1/2009,18 to 64,Male,Bachelor's degree or higher,"$25,000 to $34,999",251200.00
+1/1/2009,18 to 64,Male,Bachelor's degree or higher,"$35,000 to $49,999",366170.00
+1/1/2009,18 to 64,Male,Bachelor's degree or higher,"$50,000 to $74,999",682775.00
+1/1/2009,18 to 64,Male,Bachelor's degree or higher,"$75,000 and over",1497839.00
+1/1/2009,18 to 64,Female,No high school diploma,No Income,654156.00
+1/1/2009,18 to 64,Female,No high school diploma,"$5,000 to $9,999",248027.00
+1/1/2009,18 to 64,Female,No high school diploma,"$10,000 to $14,999",255296.00
+1/1/2009,18 to 64,Female,No high school diploma,"$15,000 to $24,999",359624.00
+1/1/2009,18 to 64,Female,No high school diploma,"$25,000 to $34,999",86580.00
+1/1/2009,18 to 64,Female,No high school diploma,"$35,000 to $49,999",30741.00
+1/1/2009,18 to 64,Female,No high school diploma,"$50,000 to $74,999",24592.00
+1/1/2009,18 to 64,Female,No high school diploma,"$75,000 and over",10943.00
+1/1/2009,18 to 64,Female,High school or equivalent,No Income,519946.00
+1/1/2009,18 to 64,Female,High school or equivalent,"$5,000 to $9,999",234527.00
+1/1/2009,18 to 64,Female,High school or equivalent,"$10,000 to $14,999",221787.00
+1/1/2009,18 to 64,Female,High school or equivalent,"$15,000 to $24,999",450205.00
+1/1/2009,18 to 64,Female,High school or equivalent,"$25,000 to $34,999",318602.00
+1/1/2009,18 to 64,Female,High school or equivalent,"$35,000 to $49,999",234705.00
+1/1/2009,18 to 64,Female,High school or equivalent,"$50,000 to $74,999",134763.00
+1/1/2009,18 to 64,Female,High school or equivalent,"$75,000 and over",57292.00
+1/1/2009,18 to 64,Female,"Some college, less than 4-yr degree",No Income,387007.00
+1/1/2009,18 to 64,Female,"Some college, less than 4-yr degree","$5,000 to $9,999",345944.00
+1/1/2009,18 to 64,Female,"Some college, less than 4-yr degree","$10,000 to $14,999",370518.00
+1/1/2009,18 to 64,Female,"Some college, less than 4-yr degree","$15,000 to $24,999",647024.00
+1/1/2009,18 to 64,Female,"Some college, less than 4-yr degree","$25,000 to $34,999",454455.00
+1/1/2009,18 to 64,Female,"Some college, less than 4-yr degree","$35,000 to $49,999",459975.00
+1/1/2009,18 to 64,Female,"Some college, less than 4-yr degree","$50,000 to $74,999",347119.00
+1/1/2009,18 to 64,Female,"Some college, less than 4-yr degree","$75,000 and over",200198.00
+1/1/2009,18 to 64,Female,Bachelor's degree or higher,No Income,243154.00
+1/1/2009,18 to 64,Female,Bachelor's degree or higher,"$5,000 to $9,999",160748.00
+1/1/2009,18 to 64,Female,Bachelor's degree or higher,"$10,000 to $14,999",136360.00
+1/1/2009,18 to 64,Female,Bachelor's degree or higher,"$15,000 to $24,999",311511.00
+1/1/2009,18 to 64,Female,Bachelor's degree or higher,"$25,000 to $34,999",320129.00
+1/1/2009,18 to 64,Female,Bachelor's degree or higher,"$35,000 to $49,999",495664.00
+1/1/2009,18 to 64,Female,Bachelor's degree or higher,"$50,000 to $74,999",767013.00
+1/1/2009,18 to 64,Female,Bachelor's degree or higher,"$75,000 and over",682401.00
+1/1/2009,65 to 80+,Male,No high school diploma,No Income,18196.00
+1/1/2009,65 to 80+,Male,No high school diploma,"$5,000 to $9,999",71415.00
+1/1/2009,65 to 80+,Male,No high school diploma,"$10,000 to $14,999",98666.00
+1/1/2009,65 to 80+,Male,No high school diploma,"$15,000 to $24,999",72908.00
+1/1/2009,65 to 80+,Male,No high school diploma,"$25,000 to $34,999",41437.00
+1/1/2009,65 to 80+,Male,No high school diploma,"$35,000 to $49,999",24599.00
+1/1/2009,65 to 80+,Male,No high school diploma,"$50,000 to $74,999",18475.00
+1/1/2009,65 to 80+,Male,No high school diploma,"$75,000 and over",2915.00
+1/1/2009,65 to 80+,Male,High school or equivalent,No Income,11528.00
+1/1/2009,65 to 80+,Male,High school or equivalent,"$5,000 to $9,999",37770.00
+1/1/2009,65 to 80+,Male,High school or equivalent,"$10,000 to $14,999",71193.00
+1/1/2009,65 to 80+,Male,High school or equivalent,"$15,000 to $24,999",64082.00
+1/1/2009,65 to 80+,Male,High school or equivalent,"$25,000 to $34,999",50987.00
+1/1/2009,65 to 80+,Male,High school or equivalent,"$35,000 to $49,999",59302.00
+1/1/2009,65 to 80+,Male,High school or equivalent,"$50,000 to $74,999",35227.00
+1/1/2009,65 to 80+,Male,High school or equivalent,"$75,000 and over",23963.00
+1/1/2009,65 to 80+,Male,"Some college, less than 4-yr degree",No Income,17061.00
+1/1/2009,65 to 80+,Male,"Some college, less than 4-yr degree","$5,000 to $9,999",23224.00
+1/1/2009,65 to 80+,Male,"Some college, less than 4-yr degree","$10,000 to $14,999",30456.00
+1/1/2009,65 to 80+,Male,"Some college, less than 4-yr degree","$15,000 to $24,999",88779.00
+1/1/2009,65 to 80+,Male,"Some college, less than 4-yr degree","$25,000 to $34,999",55910.00
+1/1/2009,65 to 80+,Male,"Some college, less than 4-yr degree","$35,000 to $49,999",69546.00
+1/1/2009,65 to 80+,Male,"Some college, less than 4-yr degree","$50,000 to $74,999",39410.00
+1/1/2009,65 to 80+,Male,"Some college, less than 4-yr degree","$75,000 and over",58478.00
+1/1/2009,65 to 80+,Male,Bachelor's degree or higher,No Income,6660.00
+1/1/2009,65 to 80+,Male,Bachelor's degree or higher,"$5,000 to $9,999",34492.00
+1/1/2009,65 to 80+,Male,Bachelor's degree or higher,"$10,000 to $14,999",36484.00
+1/1/2009,65 to 80+,Male,Bachelor's degree or higher,"$15,000 to $24,999",52607.00
+1/1/2009,65 to 80+,Male,Bachelor's degree or higher,"$25,000 to $34,999",76215.00
+1/1/2009,65 to 80+,Male,Bachelor's degree or higher,"$35,000 to $49,999",77792.00
+1/1/2009,65 to 80+,Male,Bachelor's degree or higher,"$50,000 to $74,999",109490.00
+1/1/2009,65 to 80+,Male,Bachelor's degree or higher,"$75,000 and over",212440.00
+1/1/2009,65 to 80+,Female,No high school diploma,No Income,73024.00
+1/1/2009,65 to 80+,Female,No high school diploma,"$5,000 to $9,999",178289.00
+1/1/2009,65 to 80+,Female,No high school diploma,"$10,000 to $14,999",149933.00
+1/1/2009,65 to 80+,Female,No high school diploma,"$15,000 to $24,999",64958.00
+1/1/2009,65 to 80+,Female,No high school diploma,"$25,000 to $34,999",20186.00
+1/1/2009,65 to 80+,Female,No high school diploma,"$35,000 to $49,999",4060.00
+1/1/2009,65 to 80+,Female,No high school diploma,"$50,000 to $74,999",7703.00
+1/1/2009,65 to 80+,Female,No high school diploma,"$75,000 and over",1398.00
+1/1/2009,65 to 80+,Female,High school or equivalent,No Income,43907.00
+1/1/2009,65 to 80+,Female,High school or equivalent,"$5,000 to $9,999",116176.00
+1/1/2009,65 to 80+,Female,High school or equivalent,"$10,000 to $14,999",151357.00
+1/1/2009,65 to 80+,Female,High school or equivalent,"$15,000 to $24,999",152036.00
+1/1/2009,65 to 80+,Female,High school or equivalent,"$25,000 to $34,999",58811.00
+1/1/2009,65 to 80+,Female,High school or equivalent,"$35,000 to $49,999",27349.00
+1/1/2009,65 to 80+,Female,High school or equivalent,"$50,000 to $74,999",42710.00
+1/1/2009,65 to 80+,Female,High school or equivalent,"$75,000 and over",19659.00
+1/1/2009,65 to 80+,Female,"Some college, less than 4-yr degree",No Income,12106.00
+1/1/2009,65 to 80+,Female,"Some college, less than 4-yr degree","$5,000 to $9,999",75617.00
+1/1/2009,65 to 80+,Female,"Some college, less than 4-yr degree","$10,000 to $14,999",89119.00
+1/1/2009,65 to 80+,Female,"Some college, less than 4-yr degree","$15,000 to $24,999",140082.00
+1/1/2009,65 to 80+,Female,"Some college, less than 4-yr degree","$25,000 to $34,999",81764.00
+1/1/2009,65 to 80+,Female,"Some college, less than 4-yr degree","$35,000 to $49,999",59529.00
+1/1/2009,65 to 80+,Female,"Some college, less than 4-yr degree","$50,000 to $74,999",57036.00
+1/1/2009,65 to 80+,Female,"Some college, less than 4-yr degree","$75,000 and over",33358.00
+1/1/2009,65 to 80+,Female,Bachelor's degree or higher,No Income,10741.00
+1/1/2009,65 to 80+,Female,Bachelor's degree or higher,"$5,000 to $9,999",57811.00
+1/1/2009,65 to 80+,Female,Bachelor's degree or higher,"$10,000 to $14,999",70495.00
+1/1/2009,65 to 80+,Female,Bachelor's degree or higher,"$15,000 to $24,999",85667.00
+1/1/2009,65 to 80+,Female,Bachelor's degree or higher,"$25,000 to $34,999",58901.00
+1/1/2009,65 to 80+,Female,Bachelor's degree or higher,"$35,000 to $49,999",68234.00
+1/1/2009,65 to 80+,Female,Bachelor's degree or higher,"$50,000 to $74,999",61489.00
+1/1/2009,65 to 80+,Female,Bachelor's degree or higher,"$75,000 and over",57029.00
+1/1/2010,00 to 17,Male,Children under 15,No Income,0.00
+1/1/2010,00 to 17,Male,No high school diploma,No Income,596761.00
+1/1/2010,00 to 17,Male,No high school diploma,"$5,000 to $9,999",21116.00
+1/1/2010,00 to 17,Male,No high school diploma,"$10,000 to $14,999",5345.00
+1/1/2010,00 to 17,Male,No high school diploma,"$15,000 to $24,999",9139.00
+1/1/2010,00 to 17,Male,No high school diploma,"$35,000 to $49,999",3642.00
+1/1/2010,00 to 17,Male,High school or equivalent,No Income,0.00
+1/1/2010,00 to 17,Male,High school or equivalent,"$10,000 to $14,999",1817.00
+1/1/2010,00 to 17,Male,"Some college, less than 4-yr degree",No Income,0.00
+1/1/2010,00 to 17,Male,"Some college, less than 4-yr degree","$5,000 to $9,999",2683.00
+1/1/2010,00 to 17,Male,"Some college, less than 4-yr degree","$15,000 to $24,999",1434.00
+1/1/2010,00 to 17,Male,"Some college, less than 4-yr degree","$25,000 to $34,999",1447.00
+1/1/2010,00 to 17,Male,Bachelor's degree or higher,No Income,0.00
+1/1/2010,00 to 17,Male,Bachelor's degree or higher,"$75,000 and over",1192.00
+1/1/2010,00 to 17,Female,Children under 15,No Income,0.00
+1/1/2010,00 to 17,Female,No high school diploma,No Income,610512.00
+1/1/2010,00 to 17,Female,No high school diploma,"$5,000 to $9,999",24781.00
+1/1/2010,00 to 17,Female,No high school diploma,"$10,000 to $14,999",6967.00
+1/1/2010,00 to 17,Female,No high school diploma,"$15,000 to $24,999",6386.00
+1/1/2010,00 to 17,Female,High school or equivalent,No Income,5811.00
+1/1/2010,00 to 17,Female,High school or equivalent,"$5,000 to $9,999",3641.00
+1/1/2010,00 to 17,Female,High school or equivalent,"$10,000 to $14,999",1660.00
+1/1/2010,00 to 17,Female,High school or equivalent,"$25,000 to $34,999",1048.00
+1/1/2010,00 to 17,Female,"Some college, less than 4-yr degree","$15,000 to $24,999",0.00
+1/1/2010,00 to 17,Female,Bachelor's degree or higher,No Income,2879.00
+1/1/2010,18 to 64,Male,No high school diploma,No Income,369566.00
+1/1/2010,18 to 64,Male,No high school diploma,"$5,000 to $9,999",226209.00
+1/1/2010,18 to 64,Male,No high school diploma,"$10,000 to $14,999",295536.00
+1/1/2010,18 to 64,Male,No high school diploma,"$15,000 to $24,999",535027.00
+1/1/2010,18 to 64,Male,No high school diploma,"$25,000 to $34,999",244978.00
+1/1/2010,18 to 64,Male,No high school diploma,"$35,000 to $49,999",192622.00
+1/1/2010,18 to 64,Male,No high school diploma,"$50,000 to $74,999",93885.00
+1/1/2010,18 to 64,Male,No high school diploma,"$75,000 and over",38266.00
+1/1/2010,18 to 64,Male,High school or equivalent,No Income,345253.00
+1/1/2010,18 to 64,Male,High school or equivalent,"$5,000 to $9,999",190829.00
+1/1/2010,18 to 64,Male,High school or equivalent,"$10,000 to $14,999",209509.00
+1/1/2010,18 to 64,Male,High school or equivalent,"$15,000 to $24,999",533513.00
+1/1/2010,18 to 64,Male,High school or equivalent,"$25,000 to $34,999",412122.00
+1/1/2010,18 to 64,Male,High school or equivalent,"$35,000 to $49,999",470369.00
+1/1/2010,18 to 64,Male,High school or equivalent,"$50,000 to $74,999",339017.00
+1/1/2010,18 to 64,Male,High school or equivalent,"$75,000 and over",215851.00
+1/1/2010,18 to 64,Male,"Some college, less than 4-yr degree",No Income,310460.00
+1/1/2010,18 to 64,Male,"Some college, less than 4-yr degree","$5,000 to $9,999",220408.00
+1/1/2010,18 to 64,Male,"Some college, less than 4-yr degree","$10,000 to $14,999",234677.00
+1/1/2010,18 to 64,Male,"Some college, less than 4-yr degree","$15,000 to $24,999",356706.00
+1/1/2010,18 to 64,Male,"Some college, less than 4-yr degree","$25,000 to $34,999",374227.00
+1/1/2010,18 to 64,Male,"Some college, less than 4-yr degree","$35,000 to $49,999",474116.00
+1/1/2010,18 to 64,Male,"Some college, less than 4-yr degree","$50,000 to $74,999",581119.00
+1/1/2010,18 to 64,Male,"Some college, less than 4-yr degree","$75,000 and over",441967.00
+1/1/2010,18 to 64,Male,Bachelor's degree or higher,No Income,108052.00
+1/1/2010,18 to 64,Male,Bachelor's degree or higher,"$5,000 to $9,999",79453.00
+1/1/2010,18 to 64,Male,Bachelor's degree or higher,"$10,000 to $14,999",127848.00
+1/1/2010,18 to 64,Male,Bachelor's degree or higher,"$15,000 to $24,999",234951.00
+1/1/2010,18 to 64,Male,Bachelor's degree or higher,"$25,000 to $34,999",239971.00
+1/1/2010,18 to 64,Male,Bachelor's degree or higher,"$35,000 to $49,999",408505.00
+1/1/2010,18 to 64,Male,Bachelor's degree or higher,"$50,000 to $74,999",624308.00
+1/1/2010,18 to 64,Male,Bachelor's degree or higher,"$75,000 and over",1424758.00
+1/1/2010,18 to 64,Female,No high school diploma,No Income,666858.00
+1/1/2010,18 to 64,Female,No high school diploma,"$5,000 to $9,999",236424.00
+1/1/2010,18 to 64,Female,No high school diploma,"$10,000 to $14,999",253247.00
+1/1/2010,18 to 64,Female,No high school diploma,"$15,000 to $24,999",287963.00
+1/1/2010,18 to 64,Female,No high school diploma,"$25,000 to $34,999",107504.00
+1/1/2010,18 to 64,Female,No high school diploma,"$35,000 to $49,999",35129.00
+1/1/2010,18 to 64,Female,No high school diploma,"$50,000 to $74,999",18515.00
+1/1/2010,18 to 64,Female,No high school diploma,"$75,000 and over",15038.00
+1/1/2010,18 to 64,Female,High school or equivalent,No Income,496567.00
+1/1/2010,18 to 64,Female,High school or equivalent,"$5,000 to $9,999",252271.00
+1/1/2010,18 to 64,Female,High school or equivalent,"$10,000 to $14,999",276576.00
+1/1/2010,18 to 64,Female,High school or equivalent,"$15,000 to $24,999",436288.00
+1/1/2010,18 to 64,Female,High school or equivalent,"$25,000 to $34,999",363540.00
+1/1/2010,18 to 64,Female,High school or equivalent,"$35,000 to $49,999",225261.00
+1/1/2010,18 to 64,Female,High school or equivalent,"$50,000 to $74,999",136694.00
+1/1/2010,18 to 64,Female,High school or equivalent,"$75,000 and over",43721.00
+1/1/2010,18 to 64,Female,"Some college, less than 4-yr degree",No Income,443607.00
+1/1/2010,18 to 64,Female,"Some college, less than 4-yr degree","$5,000 to $9,999",374128.00
+1/1/2010,18 to 64,Female,"Some college, less than 4-yr degree","$10,000 to $14,999",386929.00
+1/1/2010,18 to 64,Female,"Some college, less than 4-yr degree","$15,000 to $24,999",567753.00
+1/1/2010,18 to 64,Female,"Some college, less than 4-yr degree","$25,000 to $34,999",491109.00
+1/1/2010,18 to 64,Female,"Some college, less than 4-yr degree","$35,000 to $49,999",442917.00
+1/1/2010,18 to 64,Female,"Some college, less than 4-yr degree","$50,000 to $74,999",321434.00
+1/1/2010,18 to 64,Female,"Some college, less than 4-yr degree","$75,000 and over",184398.00
+1/1/2010,18 to 64,Female,Bachelor's degree or higher,No Income,269680.00
+1/1/2010,18 to 64,Female,Bachelor's degree or higher,"$5,000 to $9,999",168951.00
+1/1/2010,18 to 64,Female,Bachelor's degree or higher,"$10,000 to $14,999",133220.00
+1/1/2010,18 to 64,Female,Bachelor's degree or higher,"$15,000 to $24,999",325516.00
+1/1/2010,18 to 64,Female,Bachelor's degree or higher,"$25,000 to $34,999",305706.00
+1/1/2010,18 to 64,Female,Bachelor's degree or higher,"$35,000 to $49,999",516029.00
+1/1/2010,18 to 64,Female,Bachelor's degree or higher,"$50,000 to $74,999",687153.00
+1/1/2010,18 to 64,Female,Bachelor's degree or higher,"$75,000 and over",755781.00
+1/1/2010,65 to 80+,Male,No high school diploma,No Income,18733.00
+1/1/2010,65 to 80+,Male,No high school diploma,"$5,000 to $9,999",75130.00
+1/1/2010,65 to 80+,Male,No high school diploma,"$10,000 to $14,999",81385.00
+1/1/2010,65 to 80+,Male,No high school diploma,"$15,000 to $24,999",81088.00
+1/1/2010,65 to 80+,Male,No high school diploma,"$25,000 to $34,999",28729.00
+1/1/2010,65 to 80+,Male,No high school diploma,"$35,000 to $49,999",27814.00
+1/1/2010,65 to 80+,Male,No high school diploma,"$50,000 to $74,999",13619.00
+1/1/2010,65 to 80+,Male,No high school diploma,"$75,000 and over",8432.00
+1/1/2010,65 to 80+,Male,High school or equivalent,No Income,24958.00
+1/1/2010,65 to 80+,Male,High school or equivalent,"$5,000 to $9,999",30722.00
+1/1/2010,65 to 80+,Male,High school or equivalent,"$10,000 to $14,999",67289.00
+1/1/2010,65 to 80+,Male,High school or equivalent,"$15,000 to $24,999",79553.00
+1/1/2010,65 to 80+,Male,High school or equivalent,"$25,000 to $34,999",62167.00
+1/1/2010,65 to 80+,Male,High school or equivalent,"$35,000 to $49,999",38792.00
+1/1/2010,65 to 80+,Male,High school or equivalent,"$50,000 to $74,999",51319.00
+1/1/2010,65 to 80+,Male,High school or equivalent,"$75,000 and over",20167.00
+1/1/2010,65 to 80+,Male,"Some college, less than 4-yr degree",No Income,9228.00
+1/1/2010,65 to 80+,Male,"Some college, less than 4-yr degree","$5,000 to $9,999",23578.00
+1/1/2010,65 to 80+,Male,"Some college, less than 4-yr degree","$10,000 to $14,999",60002.00
+1/1/2010,65 to 80+,Male,"Some college, less than 4-yr degree","$15,000 to $24,999",98499.00
+1/1/2010,65 to 80+,Male,"Some college, less than 4-yr degree","$25,000 to $34,999",73522.00
+1/1/2010,65 to 80+,Male,"Some college, less than 4-yr degree","$35,000 to $49,999",46221.00
+1/1/2010,65 to 80+,Male,"Some college, less than 4-yr degree","$50,000 to $74,999",39453.00
+1/1/2010,65 to 80+,Male,"Some college, less than 4-yr degree","$75,000 and over",51157.00
+1/1/2010,65 to 80+,Male,Bachelor's degree or higher,No Income,14892.00
+1/1/2010,65 to 80+,Male,Bachelor's degree or higher,"$5,000 to $9,999",28867.00
+1/1/2010,65 to 80+,Male,Bachelor's degree or higher,"$10,000 to $14,999",45842.00
+1/1/2010,65 to 80+,Male,Bachelor's degree or higher,"$15,000 to $24,999",111055.00
+1/1/2010,65 to 80+,Male,Bachelor's degree or higher,"$25,000 to $34,999",85110.00
+1/1/2010,65 to 80+,Male,Bachelor's degree or higher,"$35,000 to $49,999",64614.00
+1/1/2010,65 to 80+,Male,Bachelor's degree or higher,"$50,000 to $74,999",103469.00
+1/1/2010,65 to 80+,Male,Bachelor's degree or higher,"$75,000 and over",192339.00
+1/1/2010,65 to 80+,Female,No high school diploma,No Income,72036.00
+1/1/2010,65 to 80+,Female,No high school diploma,"$5,000 to $9,999",136110.00
+1/1/2010,65 to 80+,Female,No high school diploma,"$10,000 to $14,999",146005.00
+1/1/2010,65 to 80+,Female,No high school diploma,"$15,000 to $24,999",57098.00
+1/1/2010,65 to 80+,Female,No high school diploma,"$25,000 to $34,999",11302.00
+1/1/2010,65 to 80+,Female,No high school diploma,"$35,000 to $49,999",8907.00
+1/1/2010,65 to 80+,Female,No high school diploma,"$50,000 to $74,999",8606.00
+1/1/2010,65 to 80+,Female,No high school diploma,"$75,000 and over",4876.00
+1/1/2010,65 to 80+,Female,High school or equivalent,No Income,38084.00
+1/1/2011,00 to 17,Female,Children under 15,No Income,0.00
+1/1/2010,65 to 80+,Female,High school or equivalent,"$5,000 to $9,999",138923.00
+1/1/2010,65 to 80+,Female,High school or equivalent,"$10,000 to $14,999",141254.00
+1/1/2010,65 to 80+,Female,High school or equivalent,"$15,000 to $24,999",138952.00
+1/1/2010,65 to 80+,Female,High school or equivalent,"$25,000 to $34,999",58847.00
+1/1/2010,65 to 80+,Female,High school or equivalent,"$35,000 to $49,999",40875.00
+1/1/2010,65 to 80+,Female,High school or equivalent,"$50,000 to $74,999",35909.00
+1/1/2010,65 to 80+,Female,High school or equivalent,"$75,000 and over",22945.00
+1/1/2010,65 to 80+,Female,"Some college, less than 4-yr degree",No Income,25882.00
+1/1/2010,65 to 80+,Female,"Some college, less than 4-yr degree","$5,000 to $9,999",104478.00
+1/1/2010,65 to 80+,Female,"Some college, less than 4-yr degree","$10,000 to $14,999",90675.00
+1/1/2010,65 to 80+,Female,"Some college, less than 4-yr degree","$15,000 to $24,999",152795.00
+1/1/2010,65 to 80+,Female,"Some college, less than 4-yr degree","$25,000 to $34,999",73450.00
+1/1/2010,65 to 80+,Female,"Some college, less than 4-yr degree","$35,000 to $49,999",55103.00
+1/1/2010,65 to 80+,Female,"Some college, less than 4-yr degree","$50,000 to $74,999",41076.00
+1/1/2010,65 to 80+,Female,"Some college, less than 4-yr degree","$75,000 and over",30088.00
+1/1/2010,65 to 80+,Female,Bachelor's degree or higher,No Income,28702.00
+1/1/2010,65 to 80+,Female,Bachelor's degree or higher,"$5,000 to $9,999",75754.00
+1/1/2010,65 to 80+,Female,Bachelor's degree or higher,"$10,000 to $14,999",82404.00
+1/1/2010,65 to 80+,Female,Bachelor's degree or higher,"$15,000 to $24,999",107427.00
+1/1/2010,65 to 80+,Female,Bachelor's degree or higher,"$25,000 to $34,999",65563.00
+1/1/2010,65 to 80+,Female,Bachelor's degree or higher,"$35,000 to $49,999",76520.00
+1/1/2010,65 to 80+,Female,Bachelor's degree or higher,"$50,000 to $74,999",78561.00
+1/1/2010,65 to 80+,Female,Bachelor's degree or higher,"$75,000 and over",73833.00
+1/1/2011,00 to 17,Male,Children under 15,No Income,0.00
+1/1/2011,00 to 17,Male,No high school diploma,No Income,679824.00
+1/1/2011,00 to 17,Male,No high school diploma,"$5,000 to $9,999",22729.00
+1/1/2011,00 to 17,Male,No high school diploma,"$10,000 to $14,999",9049.00
+1/1/2011,00 to 17,Male,No high school diploma,"$15,000 to $24,999",10327.00
+1/1/2011,00 to 17,Male,No high school diploma,"$25,000 to $34,999",3220.00
+1/1/2011,00 to 17,Male,No high school diploma,"$35,000 to $49,999",1647.00
+1/1/2011,00 to 17,Male,High school or equivalent,No Income,5434.00
+1/1/2011,00 to 17,Male,High school or equivalent,"$10,000 to $14,999",1328.00
+1/1/2011,00 to 17,Male,High school or equivalent,"$15,000 to $24,999",1312.00
+1/1/2011,00 to 17,Male,"Some college, less than 4-yr degree",No Income,4421.00
+1/1/2011,00 to 17,Male,"Some college, less than 4-yr degree","$5,000 to $9,999",1324.00
+1/1/2011,00 to 17,Male,"Some college, less than 4-yr degree","$25,000 to $34,999",1209.00
+1/1/2011,00 to 17,Male,"Some college, less than 4-yr degree","$75,000 and over",1618.00
+1/1/2011,00 to 17,Male,Bachelor's degree or higher,No Income,0.00
+1/1/2011,00 to 17,Male,Bachelor's degree or higher,"$10,000 to $14,999",2394.00
+1/1/2011,00 to 17,Female,No high school diploma,No Income,634048.00
+1/1/2011,00 to 17,Female,No high school diploma,"$5,000 to $9,999",25907.00
+1/1/2011,00 to 17,Female,No high school diploma,"$10,000 to $14,999",13283.00
+1/1/2011,00 to 17,Female,High school or equivalent,No Income,6903.00
+1/1/2011,00 to 17,Female,High school or equivalent,"$10,000 to $14,999",2561.00
+1/1/2011,00 to 17,Female,"Some college, less than 4-yr degree",No Income,4089.00
+1/1/2011,00 to 17,Female,"Some college, less than 4-yr degree","$5,000 to $9,999",4503.00
+1/1/2011,00 to 17,Female,"Some college, less than 4-yr degree","$50,000 to $74,999",1614.00
+1/1/2011,00 to 17,Female,Bachelor's degree or higher,No Income,0.00
+1/1/2011,00 to 17,Female,Bachelor's degree or higher,"$15,000 to $24,999",2859.00
+1/1/2011,18 to 64,Male,No high school diploma,No Income,359401.00
+1/1/2011,18 to 64,Male,No high school diploma,"$5,000 to $9,999",177781.00
+1/1/2011,18 to 64,Male,No high school diploma,"$10,000 to $14,999",288850.00
+1/1/2011,18 to 64,Male,No high school diploma,"$15,000 to $24,999",546856.00
+1/1/2011,18 to 64,Male,No high school diploma,"$25,000 to $34,999",295383.00
+1/1/2011,18 to 64,Male,No high school diploma,"$35,000 to $49,999",175841.00
+1/1/2011,18 to 64,Male,No high school diploma,"$50,000 to $74,999",100776.00
+1/1/2011,18 to 64,Male,No high school diploma,"$75,000 and over",38335.00
+1/1/2011,18 to 64,Male,High school or equivalent,No Income,450644.00
+1/1/2011,18 to 64,Male,High school or equivalent,"$5,000 to $9,999",179616.00
+1/1/2011,18 to 64,Male,High school or equivalent,"$10,000 to $14,999",264534.00
+1/1/2011,18 to 64,Male,High school or equivalent,"$15,000 to $24,999",519889.00
+1/1/2011,18 to 64,Male,High school or equivalent,"$25,000 to $34,999",422294.00
+1/1/2011,18 to 64,Male,High school or equivalent,"$35,000 to $49,999",477882.00
+1/1/2011,18 to 64,Male,High school or equivalent,"$50,000 to $74,999",387890.00
+1/1/2011,18 to 64,Male,High school or equivalent,"$75,000 and over",188373.00
+1/1/2011,18 to 64,Male,"Some college, less than 4-yr degree",No Income,331991.00
+1/1/2011,18 to 64,Male,"Some college, less than 4-yr degree","$5,000 to $9,999",231167.00
+1/1/2011,18 to 64,Male,"Some college, less than 4-yr degree","$10,000 to $14,999",288293.00
+1/1/2011,18 to 64,Male,"Some college, less than 4-yr degree","$15,000 to $24,999",412679.00
+1/1/2011,18 to 64,Male,"Some college, less than 4-yr degree","$25,000 to $34,999",353200.00
+1/1/2011,18 to 64,Male,"Some college, less than 4-yr degree","$35,000 to $49,999",480546.00
+1/1/2011,18 to 64,Male,"Some college, less than 4-yr degree","$50,000 to $74,999",489968.00
+1/1/2011,18 to 64,Male,"Some college, less than 4-yr degree","$75,000 and over",462728.00
+1/1/2011,18 to 64,Male,Bachelor's degree or higher,No Income,113687.00
+1/1/2011,18 to 64,Male,Bachelor's degree or higher,"$5,000 to $9,999",97326.00
+1/1/2011,18 to 64,Male,Bachelor's degree or higher,"$10,000 to $14,999",126768.00
+1/1/2011,18 to 64,Male,Bachelor's degree or higher,"$15,000 to $24,999",230412.00
+1/1/2011,18 to 64,Male,Bachelor's degree or higher,"$25,000 to $34,999",248724.00
+1/1/2011,18 to 64,Male,Bachelor's degree or higher,"$35,000 to $49,999",331666.00
+1/1/2011,18 to 64,Male,Bachelor's degree or higher,"$50,000 to $74,999",644826.00
+1/1/2011,18 to 64,Male,Bachelor's degree or higher,"$75,000 and over",1396795.00
+1/1/2011,18 to 64,Female,No high school diploma,No Income,748885.00
+1/1/2011,18 to 64,Female,No high school diploma,"$5,000 to $9,999",246973.00
+1/1/2011,18 to 64,Female,No high school diploma,"$10,000 to $14,999",273029.00
+1/1/2011,18 to 64,Female,No high school diploma,"$15,000 to $24,999",301428.00
+1/1/2011,18 to 64,Female,No high school diploma,"$25,000 to $34,999",91755.00
+1/1/2011,18 to 64,Female,No high school diploma,"$35,000 to $49,999",57985.00
+1/1/2011,18 to 64,Female,No high school diploma,"$50,000 to $74,999",18925.00
+1/1/2011,18 to 64,Female,No high school diploma,"$75,000 and over",7168.00
+1/1/2011,18 to 64,Female,High school or equivalent,No Income,575559.00
+1/1/2011,18 to 64,Female,High school or equivalent,"$5,000 to $9,999",291364.00
+1/1/2011,18 to 64,Female,High school or equivalent,"$10,000 to $14,999",305265.00
+1/1/2011,18 to 64,Female,High school or equivalent,"$15,000 to $24,999",425683.00
+1/1/2011,18 to 64,Female,High school or equivalent,"$25,000 to $34,999",323001.00
+1/1/2011,18 to 64,Female,High school or equivalent,"$35,000 to $49,999",311597.00
+1/1/2011,18 to 64,Female,High school or equivalent,"$50,000 to $74,999",139946.00
+1/1/2011,18 to 64,Female,High school or equivalent,"$75,000 and over",51155.00
+1/1/2011,18 to 64,Female,"Some college, less than 4-yr degree",No Income,525597.00
+1/1/2011,18 to 64,Female,"Some college, less than 4-yr degree","$5,000 to $9,999",367713.00
+1/1/2011,18 to 64,Female,"Some college, less than 4-yr degree","$10,000 to $14,999",368797.00
+1/1/2011,18 to 64,Female,"Some college, less than 4-yr degree","$15,000 to $24,999",542492.00
+1/1/2011,18 to 64,Female,"Some college, less than 4-yr degree","$25,000 to $34,999",460822.00
+1/1/2011,18 to 64,Female,"Some college, less than 4-yr degree","$35,000 to $49,999",427109.00
+1/1/2011,18 to 64,Female,"Some college, less than 4-yr degree","$50,000 to $74,999",323702.00
+1/1/2011,18 to 64,Female,"Some college, less than 4-yr degree","$75,000 and over",194826.00
+1/1/2011,18 to 64,Female,Bachelor's degree or higher,No Income,266304.00
+1/1/2011,18 to 64,Female,Bachelor's degree or higher,"$5,000 to $9,999",121211.00
+1/1/2011,18 to 64,Female,Bachelor's degree or higher,"$10,000 to $14,999",170533.00
+1/1/2011,18 to 64,Female,Bachelor's degree or higher,"$15,000 to $24,999",314317.00
+1/1/2011,18 to 64,Female,Bachelor's degree or higher,"$25,000 to $34,999",286343.00
+1/1/2011,18 to 64,Female,Bachelor's degree or higher,"$35,000 to $49,999",483781.00
+1/1/2011,18 to 64,Female,Bachelor's degree or higher,"$50,000 to $74,999",676522.00
+1/1/2011,18 to 64,Female,Bachelor's degree or higher,"$75,000 and over",777479.00
+1/1/2011,65 to 80+,Male,No high school diploma,No Income,27629.00
+1/1/2011,65 to 80+,Male,No high school diploma,"$5,000 to $9,999",63343.00
+1/1/2011,65 to 80+,Male,No high school diploma,"$10,000 to $14,999",86809.00
+1/1/2011,65 to 80+,Male,No high school diploma,"$15,000 to $24,999",80402.00
+1/1/2011,65 to 80+,Male,No high school diploma,"$25,000 to $34,999",21236.00
+1/1/2011,65 to 80+,Male,No high school diploma,"$35,000 to $49,999",20806.00
+1/1/2011,65 to 80+,Male,No high school diploma,"$50,000 to $74,999",5966.00
+1/1/2011,65 to 80+,Male,No high school diploma,"$75,000 and over",1686.00
+1/1/2011,65 to 80+,Male,High school or equivalent,No Income,25812.00
+1/1/2011,65 to 80+,Male,High school or equivalent,"$5,000 to $9,999",16777.00
+1/1/2011,65 to 80+,Male,High school or equivalent,"$10,000 to $14,999",82082.00
+1/1/2011,65 to 80+,Male,High school or equivalent,"$15,000 to $24,999",107748.00
+1/1/2011,65 to 80+,Male,High school or equivalent,"$25,000 to $34,999",64250.00
+1/1/2011,65 to 80+,Male,High school or equivalent,"$35,000 to $49,999",34214.00
+1/1/2011,65 to 80+,Male,High school or equivalent,"$50,000 to $74,999",38236.00
+1/1/2011,65 to 80+,Male,High school or equivalent,"$75,000 and over",9363.00
+1/1/2011,65 to 80+,Male,"Some college, less than 4-yr degree",No Income,15250.00
+1/1/2011,65 to 80+,Male,"Some college, less than 4-yr degree","$5,000 to $9,999",37367.00
+1/1/2011,65 to 80+,Male,"Some college, less than 4-yr degree","$10,000 to $14,999",66646.00
+1/1/2011,65 to 80+,Male,"Some college, less than 4-yr degree","$15,000 to $24,999",100794.00
+1/1/2011,65 to 80+,Male,"Some college, less than 4-yr degree","$25,000 to $34,999",71541.00
+1/1/2011,65 to 80+,Male,"Some college, less than 4-yr degree","$35,000 to $49,999",54755.00
+1/1/2011,65 to 80+,Male,"Some college, less than 4-yr degree","$50,000 to $74,999",53447.00
+1/1/2011,65 to 80+,Male,"Some college, less than 4-yr degree","$75,000 and over",64832.00
+1/1/2011,65 to 80+,Male,Bachelor's degree or higher,No Income,21851.00
+1/1/2011,65 to 80+,Male,Bachelor's degree or higher,"$5,000 to $9,999",28190.00
+1/1/2011,65 to 80+,Male,Bachelor's degree or higher,"$10,000 to $14,999",47668.00
+1/1/2011,65 to 80+,Male,Bachelor's degree or higher,"$15,000 to $24,999",106705.00
+1/1/2011,65 to 80+,Male,Bachelor's degree or higher,"$25,000 to $34,999",92725.00
+1/1/2011,65 to 80+,Male,Bachelor's degree or higher,"$35,000 to $49,999",87337.00
+1/1/2011,65 to 80+,Male,Bachelor's degree or higher,"$50,000 to $74,999",148745.00
+1/1/2011,65 to 80+,Male,Bachelor's degree or higher,"$75,000 and over",175775.00
+1/1/2011,65 to 80+,Female,No high school diploma,No Income,77617.00
+1/1/2011,65 to 80+,Female,No high school diploma,"$5,000 to $9,999",175975.00
+1/1/2011,65 to 80+,Female,No high school diploma,"$10,000 to $14,999",152780.00
+1/1/2011,65 to 80+,Female,No high school diploma,"$15,000 to $24,999",68997.00
+1/1/2011,65 to 80+,Female,No high school diploma,"$25,000 to $34,999",13821.00
+1/1/2011,65 to 80+,Female,No high school diploma,"$35,000 to $49,999",10588.00
+1/1/2011,65 to 80+,Female,No high school diploma,"$50,000 to $74,999",6419.00
+1/1/2011,65 to 80+,Female,No high school diploma,"$75,000 and over",2190.00
+1/1/2011,65 to 80+,Female,High school or equivalent,No Income,43062.00
+1/1/2011,65 to 80+,Female,High school or equivalent,"$5,000 to $9,999",140300.00
+1/1/2011,65 to 80+,Female,High school or equivalent,"$10,000 to $14,999",125104.00
+1/1/2011,65 to 80+,Female,High school or equivalent,"$15,000 to $24,999",148331.00
+1/1/2011,65 to 80+,Female,High school or equivalent,"$25,000 to $34,999",65587.00
+1/1/2011,65 to 80+,Female,High school or equivalent,"$35,000 to $49,999",52376.00
+1/1/2011,65 to 80+,Female,High school or equivalent,"$50,000 to $74,999",27438.00
+1/1/2011,65 to 80+,Female,High school or equivalent,"$75,000 and over",10372.00
+1/1/2011,65 to 80+,Female,"Some college, less than 4-yr degree",No Income,29080.00
+1/1/2011,65 to 80+,Female,"Some college, less than 4-yr degree","$5,000 to $9,999",107745.00
+1/1/2011,65 to 80+,Female,"Some college, less than 4-yr degree","$10,000 to $14,999",102391.00
+1/1/2011,65 to 80+,Female,"Some college, less than 4-yr degree","$15,000 to $24,999",152093.00
+1/1/2011,65 to 80+,Female,"Some college, less than 4-yr degree","$25,000 to $34,999",88513.00
+1/1/2011,65 to 80+,Female,"Some college, less than 4-yr degree","$35,000 to $49,999",43331.00
+1/1/2011,65 to 80+,Female,"Some college, less than 4-yr degree","$50,000 to $74,999",25292.00
+1/1/2011,65 to 80+,Female,"Some college, less than 4-yr degree","$75,000 and over",33485.00
+1/1/2011,65 to 80+,Female,Bachelor's degree or higher,No Income,25829.00
+1/1/2011,65 to 80+,Female,Bachelor's degree or higher,"$5,000 to $9,999",49166.00
+1/1/2011,65 to 80+,Female,Bachelor's degree or higher,"$10,000 to $14,999",67525.00
+1/1/2011,65 to 80+,Female,Bachelor's degree or higher,"$15,000 to $24,999",114697.00
+1/1/2011,65 to 80+,Female,Bachelor's degree or higher,"$25,000 to $34,999",80989.00
+1/1/2011,65 to 80+,Female,Bachelor's degree or higher,"$35,000 to $49,999",58285.00
+1/1/2011,65 to 80+,Female,Bachelor's degree or higher,"$50,000 to $74,999",90812.00
+1/1/2011,65 to 80+,Female,Bachelor's degree or higher,"$75,000 and over",75921.00
+1/1/2012,00 to 17,Male,Children under 15,No Income,0.00
+1/1/2012,00 to 17,Male,No high school diploma,No Income,705113.00
+1/1/2012,00 to 17,Male,No high school diploma,"$5,000 to $9,999",28609.00
+1/1/2012,00 to 17,Male,No high school diploma,"$10,000 to $14,999",4166.00
+1/1/2012,00 to 17,Male,No high school diploma,"$15,000 to $24,999",9647.00
+1/1/2012,00 to 17,Male,No high school diploma,"$25,000 to $34,999",1104.00
+1/1/2012,00 to 17,Male,No high school diploma,"$35,000 to $49,999",1636.00
+1/1/2012,00 to 17,Male,High school or equivalent,No Income,0.00
+1/1/2012,00 to 17,Male,"Some college, less than 4-yr degree",No Income,0.00
+1/1/2012,00 to 17,Male,"Some college, less than 4-yr degree","$10,000 to $14,999",3208.00
+1/1/2012,00 to 17,Male,Bachelor's degree or higher,No Income,1680.00
+1/1/2012,00 to 17,Female,Children under 15,No Income,0.00
+1/1/2012,00 to 17,Female,No high school diploma,No Income,641084.00
+1/1/2012,00 to 17,Female,No high school diploma,"$5,000 to $9,999",27841.00
+1/1/2012,00 to 17,Female,No high school diploma,"$10,000 to $14,999",5318.00
+1/1/2012,00 to 17,Female,No high school diploma,"$15,000 to $24,999",2075.00
+1/1/2012,00 to 17,Female,No high school diploma,"$75,000 and over",1553.00
+1/1/2012,00 to 17,Female,High school or equivalent,No Income,6291.00
+1/1/2012,00 to 17,Female,"Some college, less than 4-yr degree",No Income,4102.00
+1/1/2012,00 to 17,Female,"Some college, less than 4-yr degree","$5,000 to $9,999",1871.00
+1/1/2012,00 to 17,Female,"Some college, less than 4-yr degree","$10,000 to $14,999",2046.00
+1/1/2012,00 to 17,Female,"Some college, less than 4-yr degree","$15,000 to $24,999",1198.00
+1/1/2012,00 to 17,Female,Bachelor's degree or higher,No Income,0.00
+1/1/2012,00 to 17,Female,Bachelor's degree or higher,"$25,000 to $34,999",1198.00
+1/1/2012,18 to 64,Male,No high school diploma,No Income,357363.00
+1/1/2012,18 to 64,Male,No high school diploma,"$5,000 to $9,999",234399.00
+1/1/2012,18 to 64,Male,No high school diploma,"$10,000 to $14,999",296619.00
+1/1/2012,18 to 64,Male,No high school diploma,"$15,000 to $24,999",478466.00
+1/1/2012,18 to 64,Male,No high school diploma,"$25,000 to $34,999",285220.00
+1/1/2012,18 to 64,Male,No high school diploma,"$35,000 to $49,999",220388.00
+1/1/2012,18 to 64,Male,No high school diploma,"$50,000 to $74,999",85944.00
+1/1/2012,18 to 64,Male,No high school diploma,"$75,000 and over",37162.00
+1/1/2012,18 to 64,Male,High school or equivalent,No Income,453889.00
+1/1/2012,18 to 64,Male,High school or equivalent,"$5,000 to $9,999",223998.00
+1/1/2012,18 to 64,Male,High school or equivalent,"$10,000 to $14,999",291838.00
+1/1/2012,18 to 64,Male,High school or equivalent,"$15,000 to $24,999",533300.00
+1/1/2012,18 to 64,Male,High school or equivalent,"$25,000 to $34,999",403456.00
+1/1/2012,18 to 64,Male,High school or equivalent,"$35,000 to $49,999",430104.00
+1/1/2012,18 to 64,Male,High school or equivalent,"$50,000 to $74,999",387094.00
+1/1/2012,18 to 64,Male,High school or equivalent,"$75,000 and over",168064.00
+1/1/2012,18 to 64,Male,"Some college, less than 4-yr degree",No Income,385337.00
+1/1/2012,18 to 64,Male,"Some college, less than 4-yr degree","$5,000 to $9,999",295051.00
+1/1/2012,18 to 64,Male,"Some college, less than 4-yr degree","$10,000 to $14,999",254478.00
+1/1/2012,18 to 64,Male,"Some college, less than 4-yr degree","$15,000 to $24,999",457806.00
+1/1/2012,18 to 64,Male,"Some college, less than 4-yr degree","$25,000 to $34,999",366349.00
+1/1/2012,18 to 64,Male,"Some college, less than 4-yr degree","$35,000 to $49,999",438565.00
+1/1/2012,18 to 64,Male,"Some college, less than 4-yr degree","$50,000 to $74,999",449158.00
+1/1/2012,18 to 64,Male,"Some college, less than 4-yr degree","$75,000 and over",477728.00
+1/1/2012,18 to 64,Male,Bachelor's degree or higher,No Income,143162.00
+1/1/2012,18 to 64,Male,Bachelor's degree or higher,"$5,000 to $9,999",84310.00
+1/1/2012,18 to 64,Male,Bachelor's degree or higher,"$10,000 to $14,999",92147.00
+1/1/2012,18 to 64,Male,Bachelor's degree or higher,"$15,000 to $24,999",226292.00
+1/1/2012,18 to 64,Male,Bachelor's degree or higher,"$25,000 to $34,999",229693.00
+1/1/2012,18 to 64,Male,Bachelor's degree or higher,"$35,000 to $49,999",402570.00
+1/1/2012,18 to 64,Male,Bachelor's degree or higher,"$50,000 to $74,999",552522.00
+1/1/2012,18 to 64,Male,Bachelor's degree or higher,"$75,000 and over",1511773.00
+1/1/2012,18 to 64,Female,No high school diploma,No Income,719609.00
+1/1/2012,18 to 64,Female,No high school diploma,"$5,000 to $9,999",279793.00
+1/1/2012,18 to 64,Female,No high school diploma,"$10,000 to $14,999",249688.00
+1/1/2012,18 to 64,Female,No high school diploma,"$15,000 to $24,999",335644.00
+1/1/2012,18 to 64,Female,No high school diploma,"$25,000 to $34,999",98037.00
+1/1/2012,18 to 64,Female,No high school diploma,"$35,000 to $49,999",31925.00
+1/1/2012,18 to 64,Female,No high school diploma,"$50,000 to $74,999",7581.00
+1/1/2012,18 to 64,Female,No high school diploma,"$75,000 and over",4142.00
+1/1/2012,18 to 64,Female,High school or equivalent,No Income,569172.00
+1/1/2012,18 to 64,Female,High school or equivalent,"$5,000 to $9,999",289183.00
+1/1/2012,18 to 64,Female,High school or equivalent,"$10,000 to $14,999",285836.00
+1/1/2012,18 to 64,Female,High school or equivalent,"$15,000 to $24,999",478261.00
+1/1/2012,18 to 64,Female,High school or equivalent,"$25,000 to $34,999",317656.00
+1/1/2012,18 to 64,Female,High school or equivalent,"$35,000 to $49,999",255299.00
+1/1/2012,18 to 64,Female,High school or equivalent,"$50,000 to $74,999",132765.00
+1/1/2012,18 to 64,Female,High school or equivalent,"$75,000 and over",55907.00
+1/1/2012,18 to 64,Female,"Some college, less than 4-yr degree",No Income,544361.00
+1/1/2012,18 to 64,Female,"Some college, less than 4-yr degree","$5,000 to $9,999",375121.00
+1/1/2012,18 to 64,Female,"Some college, less than 4-yr degree","$10,000 to $14,999",364362.00
+1/1/2012,18 to 64,Female,"Some college, less than 4-yr degree","$15,000 to $24,999",609758.00
+1/1/2012,18 to 64,Female,"Some college, less than 4-yr degree","$25,000 to $34,999",456854.00
+1/1/2012,18 to 64,Female,"Some college, less than 4-yr degree","$35,000 to $49,999",471354.00
+1/1/2012,18 to 64,Female,"Some college, less than 4-yr degree","$50,000 to $74,999",340166.00
+1/1/2012,18 to 64,Female,"Some college, less than 4-yr degree","$75,000 and over",200267.00
+1/1/2012,18 to 64,Female,Bachelor's degree or higher,No Income,337101.00
+1/1/2012,18 to 64,Female,Bachelor's degree or higher,"$5,000 to $9,999",181728.00
+1/1/2012,18 to 64,Female,Bachelor's degree or higher,"$10,000 to $14,999",147701.00
+1/1/2012,18 to 64,Female,Bachelor's degree or higher,"$15,000 to $24,999",283574.00
+1/1/2012,18 to 64,Female,Bachelor's degree or higher,"$25,000 to $34,999",310527.00
+1/1/2012,18 to 64,Female,Bachelor's degree or higher,"$35,000 to $49,999",485498.00
+1/1/2012,18 to 64,Female,Bachelor's degree or higher,"$50,000 to $74,999",684421.00
+1/1/2012,18 to 64,Female,Bachelor's degree or higher,"$75,000 and over",829905.00
+1/1/2012,65 to 80+,Male,No high school diploma,No Income,43797.00
+1/1/2012,65 to 80+,Male,No high school diploma,"$5,000 to $9,999",66775.00
+1/1/2012,65 to 80+,Male,No high school diploma,"$10,000 to $14,999",87788.00
+1/1/2012,65 to 80+,Male,No high school diploma,"$15,000 to $24,999",75781.00
+1/1/2012,65 to 80+,Male,No high school diploma,"$25,000 to $34,999",38125.00
+1/1/2012,65 to 80+,Male,No high school diploma,"$35,000 to $49,999",19530.00
+1/1/2012,65 to 80+,Male,No high school diploma,"$50,000 to $74,999",12515.00
+1/1/2012,65 to 80+,Male,No high school diploma,"$75,000 and over",7813.00
+1/1/2012,65 to 80+,Male,High school or equivalent,No Income,0.00
+1/1/2012,65 to 80+,Male,High school or equivalent,"$5,000 to $9,999",34505.00
+1/1/2012,65 to 80+,Male,High school or equivalent,"$10,000 to $14,999",42768.00
+1/1/2012,65 to 80+,Male,High school or equivalent,"$15,000 to $24,999",122757.00
+1/1/2012,65 to 80+,Male,High school or equivalent,"$25,000 to $34,999",63083.00
+1/1/2012,65 to 80+,Male,High school or equivalent,"$35,000 to $49,999",62391.00
+1/1/2012,65 to 80+,Male,High school or equivalent,"$50,000 to $74,999",21505.00
+1/1/2012,65 to 80+,Male,High school or equivalent,"$75,000 and over",21430.00
+1/1/2012,65 to 80+,Male,"Some college, less than 4-yr degree",No Income,6274.00
+1/1/2012,65 to 80+,Male,"Some college, less than 4-yr degree","$5,000 to $9,999",27496.00
+1/1/2012,65 to 80+,Male,"Some college, less than 4-yr degree","$10,000 to $14,999",62706.00
+1/1/2012,65 to 80+,Male,"Some college, less than 4-yr degree","$15,000 to $24,999",106452.00
+1/1/2012,65 to 80+,Male,"Some college, less than 4-yr degree","$25,000 to $34,999",81133.00
+1/1/2012,65 to 80+,Male,"Some college, less than 4-yr degree","$35,000 to $49,999",74258.00
+1/1/2012,65 to 80+,Male,"Some college, less than 4-yr degree","$50,000 to $74,999",61326.00
+1/1/2012,65 to 80+,Male,"Some college, less than 4-yr degree","$75,000 and over",59412.00
+1/1/2012,65 to 80+,Male,Bachelor's degree or higher,No Income,14562.00
+1/1/2012,65 to 80+,Male,Bachelor's degree or higher,"$5,000 to $9,999",16823.00
+1/1/2012,65 to 80+,Male,Bachelor's degree or higher,"$10,000 to $14,999",39590.00
+1/1/2012,65 to 80+,Male,Bachelor's degree or higher,"$15,000 to $24,999",106794.00
+1/1/2012,65 to 80+,Male,Bachelor's degree or higher,"$25,000 to $34,999",107542.00
+1/1/2012,65 to 80+,Male,Bachelor's degree or higher,"$35,000 to $49,999",91063.00
+1/1/2012,65 to 80+,Male,Bachelor's degree or higher,"$50,000 to $74,999",136530.00
+1/1/2012,65 to 80+,Male,Bachelor's degree or higher,"$75,000 and over",207930.00
+1/1/2012,65 to 80+,Female,No high school diploma,No Income,78939.00
+1/1/2012,65 to 80+,Female,No high school diploma,"$5,000 to $9,999",171363.00
+1/1/2012,65 to 80+,Female,No high school diploma,"$10,000 to $14,999",128893.00
+1/1/2012,65 to 80+,Female,No high school diploma,"$15,000 to $24,999",93246.00
+1/1/2012,65 to 80+,Female,No high school diploma,"$25,000 to $34,999",8966.00
+1/1/2012,65 to 80+,Female,No high school diploma,"$35,000 to $49,999",9325.00
+1/1/2012,65 to 80+,Female,No high school diploma,"$50,000 to $74,999",9308.00
+1/1/2012,65 to 80+,Female,High school or equivalent,No Income,40812.00
+1/1/2012,65 to 80+,Female,High school or equivalent,"$5,000 to $9,999",138731.00
+1/1/2012,65 to 80+,Female,High school or equivalent,"$10,000 to $14,999",168905.00
+1/1/2012,65 to 80+,Female,High school or equivalent,"$15,000 to $24,999",202994.00
+1/1/2012,65 to 80+,Female,High school or equivalent,"$25,000 to $34,999",65999.00
+1/1/2012,65 to 80+,Female,High school or equivalent,"$35,000 to $49,999",43410.00
+1/1/2012,65 to 80+,Female,High school or equivalent,"$50,000 to $74,999",35359.00
+1/1/2012,65 to 80+,Female,High school or equivalent,"$75,000 and over",26205.00
+1/1/2012,65 to 80+,Female,"Some college, less than 4-yr degree",No Income,28392.00
+1/1/2012,65 to 80+,Female,"Some college, less than 4-yr degree","$5,000 to $9,999",57101.00
+1/1/2012,65 to 80+,Female,"Some college, less than 4-yr degree","$10,000 to $14,999",103317.00
+1/1/2012,65 to 80+,Female,"Some college, less than 4-yr degree","$15,000 to $24,999",146503.00
+1/1/2012,65 to 80+,Female,"Some college, less than 4-yr degree","$25,000 to $34,999",84364.00
+1/1/2012,65 to 80+,Female,"Some college, less than 4-yr degree","$35,000 to $49,999",34919.00
+1/1/2012,65 to 80+,Female,"Some college, less than 4-yr degree","$50,000 to $74,999",43737.00
+1/1/2012,65 to 80+,Female,"Some college, less than 4-yr degree","$75,000 and over",23888.00
+1/1/2012,65 to 80+,Female,Bachelor's degree or higher,No Income,11184.00
+1/1/2012,65 to 80+,Female,Bachelor's degree or higher,"$5,000 to $9,999",61123.00
+1/1/2012,65 to 80+,Female,Bachelor's degree or higher,"$10,000 to $14,999",71204.00
+1/1/2012,65 to 80+,Female,Bachelor's degree or higher,"$15,000 to $24,999",81556.00
+1/1/2012,65 to 80+,Female,Bachelor's degree or higher,"$25,000 to $34,999",68744.00
+1/1/2012,65 to 80+,Female,Bachelor's degree or higher,"$35,000 to $49,999",99010.00
+1/1/2012,65 to 80+,Female,Bachelor's degree or higher,"$50,000 to $74,999",75288.00
+1/1/2012,65 to 80+,Female,Bachelor's degree or higher,"$75,000 and over",71088.00
+1/1/2013,00 to 17,Male,Children under 15,No Income,0.00
+1/1/2013,00 to 17,Male,No high school diploma,No Income,660627.00
+1/1/2013,00 to 17,Male,No high school diploma,"$5,000 to $9,999",14929.00
+1/1/2013,00 to 17,Male,No high school diploma,"$10,000 to $14,999",4907.00
+1/1/2013,00 to 17,Male,No high school diploma,"$15,000 to $24,999",6336.00
+1/1/2013,00 to 17,Male,No high school diploma,"$25,000 to $34,999",1435.00
+1/1/2013,00 to 17,Male,High school or equivalent,No Income,0.00
+1/1/2013,00 to 17,Male,High school or equivalent,"$5,000 to $9,999",1405.00
+1/1/2013,00 to 17,Male,"Some college, less than 4-yr degree","$5,000 to $9,999",0.00
+1/1/2013,00 to 17,Male,"Some college, less than 4-yr degree","$10,000 to $14,999",2212.00
+1/1/2013,00 to 17,Female,Children under 15,No Income,0.00
+1/1/2013,00 to 17,Female,No high school diploma,No Income,652219.00
+1/1/2013,00 to 17,Female,No high school diploma,"$5,000 to $9,999",21792.00
+1/1/2013,00 to 17,Female,No high school diploma,"$10,000 to $14,999",10299.00
+1/1/2013,00 to 17,Female,No high school diploma,"$15,000 to $24,999",5073.00
+1/1/2013,00 to 17,Female,High school or equivalent,No Income,8651.00
+1/1/2013,00 to 17,Female,High school or equivalent,"$5,000 to $9,999",8226.00
+1/1/2013,00 to 17,Female,"Some college, less than 4-yr degree",No Income,4419.00
+1/1/2013,00 to 17,Female,"Some college, less than 4-yr degree","$10,000 to $14,999",1956.00
+1/1/2013,00 to 17,Female,"Some college, less than 4-yr degree","$15,000 to $24,999",1689.00
+1/1/2013,00 to 17,Female,"Some college, less than 4-yr degree","$35,000 to $49,999",1283.00
+1/1/2013,00 to 17,Female,Bachelor's degree or higher,"$15,000 to $24,999",0.00
+1/1/2013,18 to 64,Male,No high school diploma,No Income,348812.00
+1/1/2013,18 to 64,Male,No high school diploma,"$5,000 to $9,999",209881.00
+1/1/2013,18 to 64,Male,No high school diploma,"$10,000 to $14,999",248722.00
+1/1/2013,18 to 64,Male,No high school diploma,"$15,000 to $24,999",473160.00
+1/1/2013,18 to 64,Male,No high school diploma,"$25,000 to $34,999",287918.00
+1/1/2013,18 to 64,Male,No high school diploma,"$35,000 to $49,999",163709.00
+1/1/2013,18 to 64,Male,No high school diploma,"$50,000 to $74,999",86281.00
+1/1/2013,18 to 64,Male,No high school diploma,"$75,000 and over",30760.00
+1/1/2013,18 to 64,Male,High school or equivalent,No Income,372961.00
+1/1/2013,18 to 64,Male,High school or equivalent,"$5,000 to $9,999",184943.00
+1/1/2013,18 to 64,Male,High school or equivalent,"$10,000 to $14,999",258773.00
+1/1/2013,18 to 64,Male,High school or equivalent,"$15,000 to $24,999",425530.00
+1/1/2013,18 to 64,Male,High school or equivalent,"$25,000 to $34,999",438925.00
+1/1/2013,18 to 64,Male,High school or equivalent,"$35,000 to $49,999",456199.00
+1/1/2013,18 to 64,Male,High school or equivalent,"$50,000 to $74,999",334524.00
+1/1/2013,18 to 64,Male,High school or equivalent,"$75,000 and over",235147.00
+1/1/2013,18 to 64,Male,"Some college, less than 4-yr degree",No Income,356010.00
+1/1/2013,18 to 64,Male,"Some college, less than 4-yr degree","$5,000 to $9,999",258589.00
+1/1/2013,18 to 64,Male,"Some college, less than 4-yr degree","$10,000 to $14,999",287720.00
+1/1/2013,18 to 64,Male,"Some college, less than 4-yr degree","$15,000 to $24,999",502982.00
+1/1/2013,18 to 64,Male,"Some college, less than 4-yr degree","$25,000 to $34,999",432793.00
+1/1/2013,18 to 64,Male,"Some college, less than 4-yr degree","$35,000 to $49,999",473400.00
+1/1/2013,18 to 64,Male,"Some college, less than 4-yr degree","$50,000 to $74,999",449846.00
+1/1/2013,18 to 64,Male,"Some college, less than 4-yr degree","$75,000 and over",490899.00
+1/1/2013,18 to 64,Male,Bachelor's degree or higher,No Income,138459.00
+1/1/2013,18 to 64,Male,Bachelor's degree or higher,"$5,000 to $9,999",67986.00
+1/1/2013,18 to 64,Male,Bachelor's degree or higher,"$10,000 to $14,999",125136.00
+1/1/2013,18 to 64,Male,Bachelor's degree or higher,"$15,000 to $24,999",252257.00
+1/1/2013,18 to 64,Male,Bachelor's degree or higher,"$25,000 to $34,999",282909.00
+1/1/2013,18 to 64,Male,Bachelor's degree or higher,"$35,000 to $49,999",405494.00
+1/1/2013,18 to 64,Male,Bachelor's degree or higher,"$50,000 to $74,999",599541.00
+1/1/2013,18 to 64,Male,Bachelor's degree or higher,"$75,000 and over",1643095.00
+1/1/2013,18 to 64,Female,No high school diploma,No Income,637445.00
+1/1/2013,18 to 64,Female,No high school diploma,"$5,000 to $9,999",225537.00
+1/1/2013,18 to 64,Female,No high school diploma,"$10,000 to $14,999",229231.00
+1/1/2013,18 to 64,Female,No high school diploma,"$15,000 to $24,999",284092.00
+1/1/2013,18 to 64,Female,No high school diploma,"$25,000 to $34,999",99143.00
+1/1/2013,18 to 64,Female,No high school diploma,"$35,000 to $49,999",52571.00
+1/1/2013,18 to 64,Female,No high school diploma,"$50,000 to $74,999",15944.00
+1/1/2013,18 to 64,Female,No high school diploma,"$75,000 and over",3886.00
+1/1/2013,18 to 64,Female,High school or equivalent,No Income,664769.00
+1/1/2013,18 to 64,Female,High school or equivalent,"$5,000 to $9,999",245728.00
+1/1/2013,18 to 64,Female,High school or equivalent,"$10,000 to $14,999",265604.00
+1/1/2013,18 to 64,Female,High school or equivalent,"$15,000 to $24,999",466935.00
+1/1/2013,18 to 64,Female,High school or equivalent,"$25,000 to $34,999",293672.00
+1/1/2013,18 to 64,Female,High school or equivalent,"$35,000 to $49,999",238689.00
+1/1/2013,18 to 64,Female,High school or equivalent,"$50,000 to $74,999",134465.00
+1/1/2013,18 to 64,Female,High school or equivalent,"$75,000 and over",61381.00
+1/1/2013,18 to 64,Female,"Some college, less than 4-yr degree",No Income,531822.00
+1/1/2013,18 to 64,Female,"Some college, less than 4-yr degree","$5,000 to $9,999",380107.00
+1/1/2013,18 to 64,Female,"Some college, less than 4-yr degree","$10,000 to $14,999",384072.00
+1/1/2013,18 to 64,Female,"Some college, less than 4-yr degree","$15,000 to $24,999",617513.00
+1/1/2013,18 to 64,Female,"Some college, less than 4-yr degree","$25,000 to $34,999",453189.00
+1/1/2013,18 to 64,Female,"Some college, less than 4-yr degree","$35,000 to $49,999",497833.00
+1/1/2013,18 to 64,Female,"Some college, less than 4-yr degree","$50,000 to $74,999",399381.00
+1/1/2013,18 to 64,Female,"Some college, less than 4-yr degree","$75,000 and over",200690.00
+1/1/2013,18 to 64,Female,Bachelor's degree or higher,No Income,325064.00
+1/1/2013,18 to 64,Female,Bachelor's degree or higher,"$5,000 to $9,999",199405.00
+1/1/2013,18 to 64,Female,Bachelor's degree or higher,"$10,000 to $14,999",160795.00
+1/1/2013,18 to 64,Female,Bachelor's degree or higher,"$15,000 to $24,999",350595.00
+1/1/2013,18 to 64,Female,Bachelor's degree or higher,"$25,000 to $34,999",340393.00
+1/1/2013,18 to 64,Female,Bachelor's degree or higher,"$35,000 to $49,999",510047.00
+1/1/2013,18 to 64,Female,Bachelor's degree or higher,"$50,000 to $74,999",675331.00
+1/1/2013,18 to 64,Female,Bachelor's degree or higher,"$75,000 and over",917079.00
+1/1/2013,65 to 80+,Male,No high school diploma,No Income,32602.00
+1/1/2013,65 to 80+,Male,No high school diploma,"$5,000 to $9,999",75138.00
+1/1/2013,65 to 80+,Male,No high school diploma,"$10,000 to $14,999",102504.00
+1/1/2013,65 to 80+,Male,No high school diploma,"$15,000 to $24,999",59541.00
+1/1/2013,65 to 80+,Male,No high school diploma,"$25,000 to $34,999",23400.00
+1/1/2013,65 to 80+,Male,No high school diploma,"$35,000 to $49,999",21275.00
+1/1/2013,65 to 80+,Male,No high school diploma,"$50,000 to $74,999",24001.00
+1/1/2013,65 to 80+,Male,High school or equivalent,No Income,13764.00
+1/1/2013,65 to 80+,Male,High school or equivalent,"$5,000 to $9,999",41378.00
+1/1/2013,65 to 80+,Male,High school or equivalent,"$10,000 to $14,999",53241.00
+1/1/2013,65 to 80+,Male,High school or equivalent,"$15,000 to $24,999",112400.00
+1/1/2013,65 to 80+,Male,High school or equivalent,"$25,000 to $34,999",74106.00
+1/1/2013,65 to 80+,Male,High school or equivalent,"$35,000 to $49,999",52529.00
+1/1/2013,65 to 80+,Male,High school or equivalent,"$50,000 to $74,999",26962.00
+1/1/2013,65 to 80+,Male,High school or equivalent,"$75,000 and over",26720.00
+1/1/2013,65 to 80+,Male,"Some college, less than 4-yr degree",No Income,4295.00
+1/1/2013,65 to 80+,Male,"Some college, less than 4-yr degree","$5,000 to $9,999",21398.00
+1/1/2013,65 to 80+,Male,"Some college, less than 4-yr degree","$10,000 to $14,999",38857.00
+1/1/2013,65 to 80+,Male,"Some college, less than 4-yr degree","$15,000 to $24,999",121937.00
+1/1/2013,65 to 80+,Male,"Some college, less than 4-yr degree","$25,000 to $34,999",90111.00
+1/1/2013,65 to 80+,Male,"Some college, less than 4-yr degree","$35,000 to $49,999",86950.00
+1/1/2013,65 to 80+,Male,"Some college, less than 4-yr degree","$50,000 to $74,999",72542.00
+1/1/2013,65 to 80+,Male,"Some college, less than 4-yr degree","$75,000 and over",70476.00
+1/1/2013,65 to 80+,Male,Bachelor's degree or higher,No Income,24761.00
+1/1/2013,65 to 80+,Male,Bachelor's degree or higher,"$5,000 to $9,999",33040.00
+1/1/2013,65 to 80+,Male,Bachelor's degree or higher,"$10,000 to $14,999",40105.00
+1/1/2013,65 to 80+,Male,Bachelor's degree or higher,"$15,000 to $24,999",125756.00
+1/1/2013,65 to 80+,Male,Bachelor's degree or higher,"$25,000 to $34,999",89569.00
+1/1/2013,65 to 80+,Male,Bachelor's degree or higher,"$35,000 to $49,999",88804.00
+1/1/2013,65 to 80+,Male,Bachelor's degree or higher,"$50,000 to $74,999",122689.00
+1/1/2013,65 to 80+,Male,Bachelor's degree or higher,"$75,000 and over",250033.00
+1/1/2013,65 to 80+,Female,No high school diploma,No Income,70893.00
+1/1/2013,65 to 80+,Female,No high school diploma,"$5,000 to $9,999",150694.00
+1/1/2013,65 to 80+,Female,No high school diploma,"$10,000 to $14,999",177955.00
+1/1/2013,65 to 80+,Female,No high school diploma,"$15,000 to $24,999",46652.00
+1/1/2013,65 to 80+,Female,No high school diploma,"$25,000 to $34,999",11131.00
+1/1/2013,65 to 80+,Female,No high school diploma,"$35,000 to $49,999",8609.00
+1/1/2013,65 to 80+,Female,No high school diploma,"$50,000 to $74,999",7600.00
+1/1/2013,65 to 80+,Female,No high school diploma,"$75,000 and over",3026.00
+1/1/2013,65 to 80+,Female,High school or equivalent,No Income,43226.00
+1/1/2013,65 to 80+,Female,High school or equivalent,"$5,000 to $9,999",112957.00
+1/1/2013,65 to 80+,Female,High school or equivalent,"$10,000 to $14,999",194765.00
+1/1/2013,65 to 80+,Female,High school or equivalent,"$15,000 to $24,999",221218.00
+1/1/2013,65 to 80+,Female,High school or equivalent,"$25,000 to $34,999",36333.00
+1/1/2013,65 to 80+,Female,High school or equivalent,"$35,000 to $49,999",29427.00
+1/1/2013,65 to 80+,Female,High school or equivalent,"$50,000 to $74,999",20412.00
+1/1/2013,65 to 80+,Female,High school or equivalent,"$75,000 and over",8493.00
+1/1/2013,65 to 80+,Female,"Some college, less than 4-yr degree",No Income,13731.00
+1/1/2013,65 to 80+,Female,"Some college, less than 4-yr degree","$5,000 to $9,999",85075.00
+1/1/2013,65 to 80+,Female,"Some college, less than 4-yr degree","$10,000 to $14,999",131819.00
+1/1/2013,65 to 80+,Female,"Some college, less than 4-yr degree","$15,000 to $24,999",181219.00
+1/1/2013,65 to 80+,Female,"Some college, less than 4-yr degree","$25,000 to $34,999",56178.00
+1/1/2013,65 to 80+,Female,"Some college, less than 4-yr degree","$35,000 to $49,999",49614.00
+1/1/2013,65 to 80+,Female,"Some college, less than 4-yr degree","$50,000 to $74,999",57827.00
+1/1/2013,65 to 80+,Female,"Some college, less than 4-yr degree","$75,000 and over",39607.00
+1/1/2013,65 to 80+,Female,Bachelor's degree or higher,No Income,29147.00
+1/1/2013,65 to 80+,Female,Bachelor's degree or higher,"$5,000 to $9,999",48558.00
+1/1/2013,65 to 80+,Female,Bachelor's degree or higher,"$10,000 to $14,999",87412.00
+1/1/2013,65 to 80+,Female,Bachelor's degree or higher,"$15,000 to $24,999",94601.00
+1/1/2013,65 to 80+,Female,Bachelor's degree or higher,"$25,000 to $34,999",58537.00
+1/1/2013,65 to 80+,Female,Bachelor's degree or higher,"$35,000 to $49,999",49722.00
+1/1/2013,65 to 80+,Female,Bachelor's degree or higher,"$50,000 to $74,999",70534.00
+1/1/2013,65 to 80+,Female,Bachelor's degree or higher,"$75,000 and over",94383.00
+1/1/2014,00 to 17,Male,Children under 15,No Income,0.00
+1/1/2014,00 to 17,Male,No high school diploma,No Income,610313.00
+1/1/2014,00 to 17,Male,No high school diploma,"$5,000 to $9,999",26380.00
+1/1/2014,00 to 17,Male,No high school diploma,"$10,000 to $14,999",11857.00
+1/1/2014,00 to 17,Male,No high school diploma,"$15,000 to $24,999",3920.00
+1/1/2014,00 to 17,Male,High school or equivalent,No Income,15741.00
+1/1/2014,00 to 17,Male,High school or equivalent,"$5,000 to $9,999",2048.00
+1/1/2014,00 to 17,Male,High school or equivalent,"$10,000 to $14,999",4355.00
+1/1/2014,00 to 17,Male,"Some college, less than 4-yr degree","$15,000 to $24,999",1664.00
+1/1/2014,00 to 17,Female,Children under 15,No Income,0.00
+1/1/2014,00 to 17,Female,No high school diploma,No Income,639596.00
+1/1/2014,00 to 17,Female,No high school diploma,"$5,000 to $9,999",15795.00
+1/1/2014,00 to 17,Female,No high school diploma,"$10,000 to $14,999",13768.00
+1/1/2014,00 to 17,Female,No high school diploma,"$50,000 to $74,999",3265.00
+1/1/2014,00 to 17,Female,High school or equivalent,No Income,0.00
+1/1/2014,00 to 17,Female,High school or equivalent,"$5,000 to $9,999",1583.00
+1/1/2014,00 to 17,Female,High school or equivalent,"$15,000 to $24,999",3116.00
+1/1/2014,00 to 17,Female,High school or equivalent,"$25,000 to $34,999",2190.00
+1/1/2014,00 to 17,Female,"Some college, less than 4-yr degree",No Income,0.00
+1/1/2014,00 to 17,Female,"Some college, less than 4-yr degree","$5,000 to $9,999",1356.00
+1/1/2014,00 to 17,Female,"Some college, less than 4-yr degree","$15,000 to $24,999",2776.00
+1/1/2014,00 to 17,Female,Bachelor's degree or higher,"$10,000 to $14,999",0.00
+1/1/2014,00 to 17,Female,Bachelor's degree or higher,"$15,000 to $24,999",2471.00
+1/1/2014,18 to 64,Male,No high school diploma,No Income,376783.00
+1/1/2014,18 to 64,Male,No high school diploma,"$5,000 to $9,999",158572.00
+1/1/2014,18 to 64,Male,No high school diploma,"$10,000 to $14,999",231957.00
+1/1/2014,18 to 64,Male,No high school diploma,"$15,000 to $24,999",460129.00
+1/1/2014,18 to 64,Male,No high school diploma,"$25,000 to $34,999",288460.00
+1/1/2014,18 to 64,Male,No high school diploma,"$35,000 to $49,999",194888.00
+1/1/2014,18 to 64,Male,No high school diploma,"$50,000 to $74,999",104646.00
+1/1/2014,18 to 64,Male,No high school diploma,"$75,000 and over",54734.00
+1/1/2014,18 to 64,Male,High school or equivalent,No Income,405204.00
+1/1/2014,18 to 64,Male,High school or equivalent,"$5,000 to $9,999",238754.00
+1/1/2014,18 to 64,Male,High school or equivalent,"$10,000 to $14,999",200365.00
+1/1/2014,18 to 64,Male,High school or equivalent,"$15,000 to $24,999",520580.00
+1/1/2014,18 to 64,Male,High school or equivalent,"$25,000 to $34,999",467906.00
+1/1/2014,18 to 64,Male,High school or equivalent,"$35,000 to $49,999",418051.00
+1/1/2014,18 to 64,Male,High school or equivalent,"$50,000 to $74,999",322511.00
+1/1/2014,18 to 64,Male,High school or equivalent,"$75,000 and over",227515.00
+1/1/2014,18 to 64,Male,"Some college, less than 4-yr degree",No Income,343156.00
+1/1/2014,18 to 64,Male,"Some college, less than 4-yr degree","$5,000 to $9,999",255129.00
+1/1/2014,18 to 64,Male,"Some college, less than 4-yr degree","$10,000 to $14,999",278291.00
+1/1/2014,18 to 64,Male,"Some college, less than 4-yr degree","$15,000 to $24,999",556174.00
+1/1/2014,18 to 64,Male,"Some college, less than 4-yr degree","$25,000 to $34,999",371185.00
+1/1/2014,18 to 64,Male,"Some college, less than 4-yr degree","$35,000 to $49,999",495675.00
+1/1/2014,18 to 64,Male,"Some college, less than 4-yr degree","$50,000 to $74,999",423087.00
+1/1/2014,18 to 64,Male,"Some college, less than 4-yr degree","$75,000 and over",495187.00
+1/1/2014,18 to 64,Male,Bachelor's degree or higher,No Income,181482.00
+1/1/2014,18 to 64,Male,Bachelor's degree or higher,"$5,000 to $9,999",86481.00
+1/1/2014,18 to 64,Male,Bachelor's degree or higher,"$10,000 to $14,999",104462.00
+1/1/2014,18 to 64,Male,Bachelor's degree or higher,"$15,000 to $24,999",233954.00
+1/1/2014,18 to 64,Male,Bachelor's degree or higher,"$25,000 to $34,999",218789.00
+1/1/2014,18 to 64,Male,Bachelor's degree or higher,"$35,000 to $49,999",357532.00
+1/1/2014,18 to 64,Male,Bachelor's degree or higher,"$50,000 to $74,999",682425.00
+1/1/2014,18 to 64,Male,Bachelor's degree or higher,"$75,000 and over",1628605.00
+1/1/2014,18 to 64,Female,No high school diploma,No Income,723208.00
+1/1/2014,18 to 64,Female,No high school diploma,"$5,000 to $9,999",239883.00
+1/1/2014,18 to 64,Female,No high school diploma,"$10,000 to $14,999",189839.00
+1/1/2014,18 to 64,Female,No high school diploma,"$15,000 to $24,999",277974.00
+1/1/2014,18 to 64,Female,No high school diploma,"$25,000 to $34,999",120389.00
+1/1/2014,18 to 64,Female,No high school diploma,"$35,000 to $49,999",43218.00
+1/1/2014,18 to 64,Female,No high school diploma,"$50,000 to $74,999",14635.00
+1/1/2014,18 to 64,Female,No high school diploma,"$75,000 and over",2058.00
+1/1/2014,18 to 64,Female,High school or equivalent,No Income,670294.00
+1/1/2014,18 to 64,Female,High school or equivalent,"$5,000 to $9,999",266348.00
+1/1/2014,18 to 64,Female,High school or equivalent,"$10,000 to $14,999",272824.00
+1/1/2014,18 to 64,Female,High school or equivalent,"$15,000 to $24,999",453432.00
+1/1/2014,18 to 64,Female,High school or equivalent,"$25,000 to $34,999",318868.00
+1/1/2014,18 to 64,Female,High school or equivalent,"$35,000 to $49,999",245318.00
+1/1/2014,18 to 64,Female,High school or equivalent,"$50,000 to $74,999",128589.00
+1/1/2014,18 to 64,Female,High school or equivalent,"$75,000 and over",52375.00
+1/1/2014,18 to 64,Female,"Some college, less than 4-yr degree",No Income,581907.00
+1/1/2014,18 to 64,Female,"Some college, less than 4-yr degree","$5,000 to $9,999",404151.00
+1/1/2014,18 to 64,Female,"Some college, less than 4-yr degree","$10,000 to $14,999",389764.00
+1/1/2014,18 to 64,Female,"Some college, less than 4-yr degree","$15,000 to $24,999",483518.00
+1/1/2014,18 to 64,Female,"Some college, less than 4-yr degree","$25,000 to $34,999",528017.00
+1/1/2014,18 to 64,Female,"Some college, less than 4-yr degree","$35,000 to $49,999",469153.00
+1/1/2014,18 to 64,Female,"Some college, less than 4-yr degree","$50,000 to $74,999",344454.00
+1/1/2014,18 to 64,Female,"Some college, less than 4-yr degree","$75,000 and over",155579.00
+1/1/2014,18 to 64,Female,Bachelor's degree or higher,No Income,359264.00
+1/1/2014,18 to 64,Female,Bachelor's degree or higher,"$5,000 to $9,999",148975.00
+1/1/2014,18 to 64,Female,Bachelor's degree or higher,"$10,000 to $14,999",206941.00
+1/1/2014,18 to 64,Female,Bachelor's degree or higher,"$15,000 to $24,999",352744.00
+1/1/2014,18 to 64,Female,Bachelor's degree or higher,"$25,000 to $34,999",340611.00
+1/1/2014,18 to 64,Female,Bachelor's degree or higher,"$35,000 to $49,999",531019.00
+1/1/2014,18 to 64,Female,Bachelor's degree or higher,"$50,000 to $74,999",660048.00
+1/1/2014,18 to 64,Female,Bachelor's degree or higher,"$75,000 and over",953282.00
+1/1/2014,65 to 80+,Male,No high school diploma,No Income,31263.00
+1/1/2014,65 to 80+,Male,No high school diploma,"$5,000 to $9,999",40404.00
+1/1/2014,65 to 80+,Male,No high school diploma,"$10,000 to $14,999",81810.00
+1/1/2014,65 to 80+,Male,No high school diploma,"$15,000 to $24,999",76893.00
+1/1/2014,65 to 80+,Male,No high school diploma,"$25,000 to $34,999",32058.00
+1/1/2014,65 to 80+,Male,No high school diploma,"$35,000 to $49,999",15212.00
+1/1/2014,65 to 80+,Male,No high school diploma,"$50,000 to $74,999",8569.00
+1/1/2014,65 to 80+,Male,No high school diploma,"$75,000 and over",2153.00
+1/1/2014,65 to 80+,Male,High school or equivalent,No Income,28914.00
+1/1/2014,65 to 80+,Male,High school or equivalent,"$5,000 to $9,999",44824.00
+1/1/2014,65 to 80+,Male,High school or equivalent,"$10,000 to $14,999",66527.00
+1/1/2014,65 to 80+,Male,High school or equivalent,"$15,000 to $24,999",116746.00
+1/1/2014,65 to 80+,Male,High school or equivalent,"$25,000 to $34,999",80555.00
+1/1/2014,65 to 80+,Male,High school or equivalent,"$35,000 to $49,999",64170.00
+1/1/2014,65 to 80+,Male,High school or equivalent,"$50,000 to $74,999",40307.00
+1/1/2014,65 to 80+,Male,High school or equivalent,"$75,000 and over",36180.00
+1/1/2014,65 to 80+,Male,"Some college, less than 4-yr degree",No Income,27344.00
+1/1/2014,65 to 80+,Male,"Some college, less than 4-yr degree","$5,000 to $9,999",15423.00
+1/1/2014,65 to 80+,Male,"Some college, less than 4-yr degree","$10,000 to $14,999",45185.00
+1/1/2014,65 to 80+,Male,"Some college, less than 4-yr degree","$15,000 to $24,999",101765.00
+1/1/2014,65 to 80+,Male,"Some college, less than 4-yr degree","$25,000 to $34,999",96958.00
+1/1/2014,65 to 80+,Male,"Some college, less than 4-yr degree","$35,000 to $49,999",83427.00
+1/1/2014,65 to 80+,Male,"Some college, less than 4-yr degree","$50,000 to $74,999",53141.00
+1/1/2014,65 to 80+,Male,"Some college, less than 4-yr degree","$75,000 and over",42633.00
+1/1/2014,65 to 80+,Male,Bachelor's degree or higher,No Income,19286.00
+1/1/2014,65 to 80+,Male,Bachelor's degree or higher,"$5,000 to $9,999",28093.00
+1/1/2014,65 to 80+,Male,Bachelor's degree or higher,"$10,000 to $14,999",36463.00
+1/1/2014,65 to 80+,Male,Bachelor's degree or higher,"$15,000 to $24,999",103998.00
+1/1/2014,65 to 80+,Male,Bachelor's degree or higher,"$25,000 to $34,999",74877.00
+1/1/2014,65 to 80+,Male,Bachelor's degree or higher,"$35,000 to $49,999",120656.00
+1/1/2014,65 to 80+,Male,Bachelor's degree or higher,"$50,000 to $74,999",154551.00
+1/1/2014,65 to 80+,Male,Bachelor's degree or higher,"$75,000 and over",294802.00
+1/1/2014,65 to 80+,Female,No high school diploma,No Income,73275.00
+1/1/2014,65 to 80+,Female,No high school diploma,"$5,000 to $9,999",158180.00
+1/1/2014,65 to 80+,Female,No high school diploma,"$10,000 to $14,999",161001.00
+1/1/2014,65 to 80+,Female,No high school diploma,"$15,000 to $24,999",60502.00
+1/1/2014,65 to 80+,Female,No high school diploma,"$25,000 to $34,999",23657.00
+1/1/2014,65 to 80+,Female,No high school diploma,"$35,000 to $49,999",7261.00
+1/1/2014,65 to 80+,Female,No high school diploma,"$50,000 to $74,999",4666.00
+1/1/2014,65 to 80+,Female,High school or equivalent,No Income,57461.00
+1/1/2014,65 to 80+,Female,High school or equivalent,"$5,000 to $9,999",76573.00
+1/1/2014,65 to 80+,Female,High school or equivalent,"$10,000 to $14,999",152945.00
+1/1/2014,65 to 80+,Female,High school or equivalent,"$15,000 to $24,999",161619.00
+1/1/2014,65 to 80+,Female,High school or equivalent,"$25,000 to $34,999",61889.00
+1/1/2014,65 to 80+,Female,High school or equivalent,"$35,000 to $49,999",55265.00
+1/1/2014,65 to 80+,Female,High school or equivalent,"$50,000 to $74,999",34110.00
+1/1/2014,65 to 80+,Female,High school or equivalent,"$75,000 and over",7122.00
+1/1/2014,65 to 80+,Female,"Some college, less than 4-yr degree",No Income,32604.00
+1/1/2014,65 to 80+,Female,"Some college, less than 4-yr degree","$5,000 to $9,999",135938.00
+1/1/2014,65 to 80+,Female,"Some college, less than 4-yr degree","$10,000 to $14,999",85356.00
+1/1/2014,65 to 80+,Female,"Some college, less than 4-yr degree","$15,000 to $24,999",203800.00
+1/1/2014,65 to 80+,Female,"Some college, less than 4-yr degree","$25,000 to $34,999",95482.00
+1/1/2014,65 to 80+,Female,"Some college, less than 4-yr degree","$35,000 to $49,999",64166.00
+1/1/2014,65 to 80+,Female,"Some college, less than 4-yr degree","$50,000 to $74,999",63144.00
+1/1/2014,65 to 80+,Female,"Some college, less than 4-yr degree","$75,000 and over",54704.00
+1/1/2014,65 to 80+,Female,Bachelor's degree or higher,No Income,15459.00
+1/1/2014,65 to 80+,Female,Bachelor's degree or higher,"$5,000 to $9,999",62471.00
+1/1/2014,65 to 80+,Female,Bachelor's degree or higher,"$10,000 to $14,999",104583.00
+1/1/2014,65 to 80+,Female,Bachelor's degree or higher,"$15,000 to $24,999",82988.00
+1/1/2014,65 to 80+,Female,Bachelor's degree or higher,"$25,000 to $34,999",59607.00
+1/1/2014,65 to 80+,Female,Bachelor's degree or higher,"$35,000 to $49,999",113584.00
+1/1/2014,65 to 80+,Female,Bachelor's degree or higher,"$50,000 to $74,999",97657.00
+1/1/2014,65 to 80+,Female,Bachelor's degree or higher,"$75,000 and over",110009.00
